@@ -1,0 +1,7 @@
+owner=X28
+controller=X28
+add_core=X28
+trade_goods = wool
+life_rating = 32
+terrain = savanna
+naval_base = 1

@@ -1,0 +1,5 @@
+owner=ADU
+controller=ADU
+add_core=MAL
+trade_goods = timber
+life_rating = 31

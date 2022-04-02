@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 979
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 6848
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 636
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 97
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 822
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 39472
+	}
+
+}

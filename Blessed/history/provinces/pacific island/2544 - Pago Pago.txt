@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=HWK
+add_core=SMO
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+colonial=2

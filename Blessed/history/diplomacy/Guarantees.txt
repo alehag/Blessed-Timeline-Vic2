@@ -1,0 +1,32 @@
+guarantee=
+{
+	first="X00"
+	second="X02"
+	start_date="1818.2.28"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ICL"
+	second="ENG"
+	start_date="1737.2.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ICL"
+	second="ITA"
+	start_date="1795.12.30"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="NET"
+	second="BRU"
+	start_date="1795.6.22"
+	end_date="1936.1.1"
+}
+

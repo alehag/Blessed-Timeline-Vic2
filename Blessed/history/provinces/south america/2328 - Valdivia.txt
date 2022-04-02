@@ -1,0 +1,7 @@
+owner=PRG
+controller=PRG
+add_core=CUA
+trade_goods = grain
+life_rating = 35
+terrain = montane_forest
+naval_base = 1

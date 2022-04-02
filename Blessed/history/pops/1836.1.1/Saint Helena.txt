@@ -1,0 +1,160 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 17665
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3250
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1414
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 12153
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3250
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1414
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 29818
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3250
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1414
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 29818
+	}
+
+}

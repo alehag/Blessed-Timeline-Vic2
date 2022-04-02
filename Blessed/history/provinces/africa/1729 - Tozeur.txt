@@ -1,0 +1,6 @@
+owner=ITA
+controller=ITA
+add_core=MOR
+add_core=TLC
+trade_goods = wool
+life_rating = 10

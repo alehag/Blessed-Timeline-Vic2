@@ -1,0 +1,7 @@
+owner=PNT
+controller=PNT
+add_core=GRE
+add_core=PNT
+add_core=TBZ
+trade_goods = tobacco
+life_rating = 35

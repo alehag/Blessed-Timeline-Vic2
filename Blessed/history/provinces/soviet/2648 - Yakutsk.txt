@@ -1,0 +1,4 @@
+owner=CHU
+controller=CHU
+trade_goods = grain
+life_rating = 35

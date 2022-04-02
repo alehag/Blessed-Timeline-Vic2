@@ -1,0 +1,8 @@
+owner=DAW
+controller=AJU
+add_core=ADE
+add_core=DAW
+add_core=ETH
+trade_goods = fish
+life_rating = 32
+terrain = semidesert

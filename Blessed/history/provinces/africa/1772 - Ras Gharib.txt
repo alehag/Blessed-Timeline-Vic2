@@ -1,0 +1,9 @@
+owner=PNT
+controller=PNT
+add_core=EGY
+add_core=X07
+trade_goods = grain
+life_rating = 10
+terrain = desert
+colonial=2
+naval_base = 1

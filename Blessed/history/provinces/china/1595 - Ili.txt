@@ -1,0 +1,7 @@
+owner=TRX
+controller=TRX
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = sulphur
+life_rating = 32

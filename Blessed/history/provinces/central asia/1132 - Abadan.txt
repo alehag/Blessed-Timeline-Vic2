@@ -1,0 +1,8 @@
+owner=PNT
+controller=PNT
+add_core=AZB
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+colonial=2
+naval_base = 1

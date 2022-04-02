@@ -1,0 +1,7 @@
+owner=JAP
+controller=CHV
+add_core=CHU
+add_core=CHV
+trade_goods = cattle
+life_rating = 15
+terrain = boreal

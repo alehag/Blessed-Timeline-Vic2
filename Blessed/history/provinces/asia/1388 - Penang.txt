@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=MLC
+add_core=MLY
+add_core=PAT
+trade_goods = timber
+life_rating = 37
+colonial=2

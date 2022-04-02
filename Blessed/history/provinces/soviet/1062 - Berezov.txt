@@ -1,0 +1,6 @@
+owner=X19
+controller=FRA
+add_core=SIB
+trade_goods = iron
+life_rating = 15
+terrain = boreal

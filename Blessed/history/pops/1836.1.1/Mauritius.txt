@@ -1,0 +1,151 @@
+2125 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 546
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 1910
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 27
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 24443
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = sunni
+		size= 596
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = sunni
+		size= 6080
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = sunni
+		size= 565
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = sunni
+		size= 87
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = sunni
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = sunni
+		size= 547
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = sunni
+		size= 21847
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3805
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 40
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 22621
+	}
+
+}

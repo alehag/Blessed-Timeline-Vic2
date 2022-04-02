@@ -1,0 +1,6 @@
+owner=X19
+controller=SIB
+add_core=SIB
+add_core=UGR
+trade_goods = sulphur
+life_rating = 40

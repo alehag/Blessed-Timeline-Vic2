@@ -1,0 +1,8 @@
+owner=PNT
+controller=PNT
+add_core=EGY
+add_core=GRE
+trade_goods = cotton
+life_rating = 32
+terrain = semidesert
+naval_base = 2

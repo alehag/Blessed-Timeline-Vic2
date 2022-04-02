@@ -1,0 +1,6 @@
+owner=AUI
+controller=AUI
+add_core=AUE
+add_core=AUI
+trade_goods = grain
+life_rating = 20

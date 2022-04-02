@@ -1,0 +1,7 @@
+owner=TRX
+controller=TRX
+add_core=KHA
+add_core=MGL
+add_core=X19
+trade_goods = iron
+life_rating = 32

@@ -1,0 +1,4 @@
+owner=ICL
+controller=ICL
+trade_goods = tobacco
+life_rating = 35

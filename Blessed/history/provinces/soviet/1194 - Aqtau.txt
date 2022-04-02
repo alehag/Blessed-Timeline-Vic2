@@ -1,0 +1,8 @@
+owner=BSK
+controller=BSK
+add_core=BSK
+add_core=KHI
+add_core=X22
+trade_goods = fish
+life_rating = 25
+terrain = semidesert

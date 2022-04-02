@@ -1,0 +1,7 @@
+owner=ICL
+controller=ICL
+add_core=ICL
+trade_goods = grain
+life_rating = 31
+terrain = steppe
+fort = 1

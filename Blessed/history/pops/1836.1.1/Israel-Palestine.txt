@@ -1,0 +1,369 @@
+916 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1010
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 9150
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 925
+	}
+
+}
+917 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 2750
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 321
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 502
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 23948
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 875
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1175
+	}
+
+}
+918 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1060
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 10075
+	}
+
+}
+919 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 760
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 8400
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1675
+	}
+
+}
+920 = {
+	soldiers=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 679
+	}
+
+	artisans=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 1359
+	}
+
+	clergymen=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 75
+	}
+
+	officers=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 428
+	}
+
+	farmers=
+	{
+		culture = yenidun
+		religion = orthodox
+		size= 31165
+	}
+
+}
+921 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 2750
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 1196
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 502
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = orthodox
+		size= 25123
+	}
+
+}

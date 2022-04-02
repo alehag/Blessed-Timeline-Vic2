@@ -1,0 +1,530 @@
+#Sphere of Influence
+
+ADU = {
+	value = -1
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARL = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = -47
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 29
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = -8
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -78
+	level = 2
+}
+FRA = {
+	value = 1
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = -5
+	level = 2
+}
+ITA = {
+	value = 120
+	influence_value = 17
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -10
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = -19
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 48
+	military_access = yes
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -6
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -8
+	level = 2
+}
+X27 = {
+	value = -7
+	level = 2
+}
+X28 = {
+	value = -5
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Siegfried Knobelsdorf"
+	date="1797.1.23"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ludwig von Rauch"
+	date="1798.7.14"
+	type=land
+	personality="intuitive"
+	background="bootlicker"
+}
+
+leader = {
+	name="Siegmund von Seel"
+	date="1815.11.1"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Thomas Billerbeck"
+	date="1819.12.1"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2505
+	ship = {
+		name="1st Rote Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Essington Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Roebourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tennant Creek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tennant Creek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Perth Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2507
+	regiment = {
+		name="1st Normanton Cavalry"
+		type=cavalry
+		home=2604
+	}
+	regiment = {
+		name="2nd Normanton Cavalry"
+		type=cavalry
+		home=2604
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2872
+	ship = {
+		name="1st Geraldton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tauranga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kirikiriroa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2604
+	ship = {
+		name="1st Kirikiriroa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Roebourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Auckland Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,8 @@
+owner=ICL
+controller=ICL
+add_core=ARA
+trade_goods = fish
+life_rating = 20
+terrain = semidesert
+colonial=2
+naval_base = 1

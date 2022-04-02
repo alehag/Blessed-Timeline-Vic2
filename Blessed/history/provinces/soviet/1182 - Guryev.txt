@@ -1,0 +1,7 @@
+owner=BSK
+controller=BSK
+add_core=CHG
+add_core=GEO
+add_core=X21
+trade_goods = opium
+life_rating = 35

@@ -1,0 +1,11 @@
+owner=ICL
+controller=ICL
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

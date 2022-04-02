@@ -1,0 +1,7 @@
+owner=NET
+controller=NET
+add_core=BUR
+add_core=IDO
+trade_goods = fish
+life_rating = 31
+colonial=2

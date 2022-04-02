@@ -1,0 +1,2570 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 49
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARL = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = -3
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -131
+	level = 3
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 50
+	level = 3
+}
+JAP = {
+	value = -96
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = -6
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -52
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = -76
+	level = 2
+}
+PRU = {
+	value = 37
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 19
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+SYR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -1
+	level = 2
+}
+X27 = {
+	value = 31
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = -7
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2211
+	regiment = {
+		name="1st Iceland Infantry"
+		type=infantry
+		home=252
+	}
+	regiment = {
+		name="1st Laredo Infantry"
+		type=infantry
+		home=138
+	}
+	regiment = {
+		name="2nd Iceland Infantry"
+		type=infantry
+		home=252
+	}
+	regiment = {
+		name="3rd Iceland Infantry"
+		type=infantry
+		home=252
+	}
+	regiment = {
+		name="1st Matamoros Artillery"
+		type=artillery
+		home=2149
+	}
+	regiment = {
+		name="1st Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+	regiment = {
+		name="1st Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Santiago de Cuba Artillery"
+		type=artillery
+		home=2212
+	}
+	regiment = {
+		name="2nd Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+}
+
+army = {
+	name="6th Army"
+	location=172
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Fort Albany Infantry"
+		type=infantry
+		home=48
+	}
+	regiment = {
+		name="2nd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="3rd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Fort Albany Artillery"
+		type=artillery
+		home=48
+	}
+	regiment = {
+		name="1st Fort Washita Artillery"
+		type=artillery
+		home=131
+	}
+	regiment = {
+		name="1st Sept-Îles Artillery"
+		type=artillery
+		home=62
+	}
+	regiment = {
+		name="1st Fort Gibson Artillery"
+		type=artillery
+		home=130
+	}
+	regiment = {
+		name="1st Fort George Artillery"
+		type=artillery
+		home=2593
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2336
+	ship = {
+		name="Freia"
+		type=frigate
+	}
+	ship = {
+		name="Desideira"
+		type=frigate
+	}
+	ship = {
+		name="St Olaf"
+		type=frigate
+	}
+	ship = {
+		name="Kong Sverre"
+		type=frigate
+	}
+	ship = {
+		name="Ellida"
+		type=frigate
+	}
+	ship = {
+		name="Nordssthernen"
+		type=frigate
+	}
+	ship = {
+		name="Ørnen"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sept-Îles Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2238
+	regiment = {
+		name="1st Culiacán Infantry"
+		type=infantry
+		home=2157
+	}
+	regiment = {
+		name="1st Comayagua Infantry"
+		type=infantry
+		home=2193
+	}
+	regiment = {
+		name="1st Penonomé Infantry"
+		type=infantry
+		home=2206
+	}
+	regiment = {
+		name="1st Durango Infantry"
+		type=infantry
+		home=2153
+	}
+	regiment = {
+		name="2nd Culiacán Infantry"
+		type=infantry
+		home=2157
+	}
+	regiment = {
+		name="2nd Penonomé Infantry"
+		type=infantry
+		home=2206
+	}
+	regiment = {
+		name="1st Managua Infantry"
+		type=infantry
+		home=2197
+	}
+	regiment = {
+		name="1st Rivas Infantry"
+		type=infantry
+		home=2198
+	}
+	regiment = {
+		name="1st Fort Leavenworth Artillery"
+		type=artillery
+		home=126
+	}
+	regiment = {
+		name="1st Limón Artillery"
+		type=artillery
+		home=2203
+	}
+	regiment = {
+		name="1st Culiacán Artillery"
+		type=artillery
+		home=2157
+	}
+	regiment = {
+		name="1st Chihuahua Artillery"
+		type=artillery
+		home=2142
+	}
+	regiment = {
+		name="2nd Fort Leavenworth Artillery"
+		type=artillery
+		home=126
+	}
+	regiment = {
+		name="1st Kansas City Artillery"
+		type=artillery
+		home=150
+	}
+	regiment = {
+		name="1st Guatemala City Artillery"
+		type=artillery
+		home=2186
+	}
+	regiment = {
+		name="2nd Limón Artillery"
+		type=artillery
+		home=2203
+	}
+	regiment = {
+		name="1st Delicias Artillery"
+		type=artillery
+		home=2144
+	}
+	regiment = {
+		name="2nd Durango Infantry"
+		type=infantry
+		home=2153
+	}
+}
+
+army = {
+	name="4th Army"
+	location=339
+	regiment = {
+		name="1st Fontenelle's Post Infantry"
+		type=infantry
+		home=125
+	}
+	regiment = {
+		name="1st Tepic Infantry"
+		type=infantry
+		home=2161
+	}
+	regiment = {
+		name="1st San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st Hugoton Infantry"
+		type=infantry
+		home=128
+	}
+	regiment = {
+		name="1st Torreón Infantry"
+		type=infantry
+		home=2155
+	}
+	regiment = {
+		name="1st Guadalajara Infantry"
+		type=infantry
+		home=2166
+	}
+	regiment = {
+		name="2nd Fontenelle's Post Infantry"
+		type=infantry
+		home=125
+	}
+	regiment = {
+		name="2nd Guadalajara Infantry"
+		type=infantry
+		home=2166
+	}
+	regiment = {
+		name="1st Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="2nd Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="2nd Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+	regiment = {
+		name="3rd Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="2nd Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+	regiment = {
+		name="3rd Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="4th Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="3rd Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+	regiment = {
+		name="5th Pueblo Infantry"
+		type=infantry
+		home=103
+	}
+}
+
+army = {
+	name="56th Army"
+	location=171
+	regiment = {
+		name="1st Fort Mann Infantry"
+		type=infantry
+		home=127
+	}
+	regiment = {
+		name="1st Fort Parker Infantry"
+		type=infantry
+		home=134
+	}
+	regiment = {
+		name="1st Bordeaux's Post Infantry"
+		type=infantry
+		home=124
+	}
+	regiment = {
+		name="1st El Paso Infantry"
+		type=infantry
+		home=136
+	}
+	regiment = {
+		name="1st Oskaloosa Artillery"
+		type=artillery
+		home=152
+	}
+	regiment = {
+		name="1st Milwaukee Artillery"
+		type=artillery
+		home=159
+	}
+	regiment = {
+		name="1st Saginaw Artillery"
+		type=artillery
+		home=175
+	}
+	regiment = {
+		name="1st Champaign Artillery"
+		type=artillery
+		home=165
+	}
+	regiment = {
+		name="1st Superior Artillery"
+		type=artillery
+		home=160
+	}
+}
+
+army = {
+	name="18th Army"
+	location=136
+	regiment = {
+		name="1st Toluca Infantry"
+		type=infantry
+		home=2174
+	}
+	regiment = {
+		name="3rd Guadalajara Infantry"
+		type=infantry
+		home=2166
+	}
+	regiment = {
+		name="2nd Tepic Infantry"
+		type=infantry
+		home=2161
+	}
+	regiment = {
+		name="1st San Luis Potosí Infantry"
+		type=infantry
+		home=2159
+	}
+	regiment = {
+		name="3rd Tepic Infantry"
+		type=infantry
+		home=2161
+	}
+	regiment = {
+		name="1st Aguascalientes Infantry"
+		type=infantry
+		home=2160
+	}
+}
+
+army = {
+	name="15th Army"
+	location=136
+	regiment = {
+		name="1st Nogales Infantry"
+		type=infantry
+		home=2137
+	}
+	regiment = {
+		name="1st Ciudad Juarez Infantry"
+		type=infantry
+		home=2143
+	}
+	regiment = {
+		name="1st Pueblo Infantry"
+		type=infantry
+		home=103
+	}
+	regiment = {
+		name="1st Mojave Infantry"
+		type=infantry
+		home=88
+	}
+	regiment = {
+		name="1st Albuquerque Infantry"
+		type=infantry
+		home=2148
+	}
+	regiment = {
+		name="2nd Pueblo Infantry"
+		type=infantry
+		home=103
+	}
+	regiment = {
+		name="3rd Animas Infantry"
+		type=infantry
+		home=2662
+	}
+}
+
+army = {
+	name="50th Army"
+	location=2168
+	regiment = {
+		name="1st Fort Robidoux Infantry"
+		type=infantry
+		home=123
+	}
+	regiment = {
+		name="1st Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="2nd Fort Mann Infantry"
+		type=infantry
+		home=127
+	}
+	regiment = {
+		name="1st Des Moines Infantry"
+		type=infantry
+		home=151
+	}
+	regiment = {
+		name="1st Guymon Infantry"
+		type=infantry
+		home=129
+	}
+	regiment = {
+		name="3rd Fontenelle's Post Infantry"
+		type=infantry
+		home=125
+	}
+	regiment = {
+		name="1st Pueblo Artillery"
+		type=artillery
+		home=103
+	}
+	regiment = {
+		name="1st Fort Cedar Artillery"
+		type=artillery
+		home=121
+	}
+	regiment = {
+		name="1st Animas Artillery"
+		type=artillery
+		home=2662
+	}
+	regiment = {
+		name="1st Fort Parker Artillery"
+		type=artillery
+		home=134
+	}
+	regiment = {
+		name="1st Bordeaux's Post Artillery"
+		type=artillery
+		home=124
+	}
+	regiment = {
+		name="1st Chattanooga Artillery"
+		type=artillery
+		home=191
+	}
+	regiment = {
+		name="1st Fort Laramie Artillery"
+		type=artillery
+		home=112
+	}
+	regiment = {
+		name="3rd Fort Mann Infantry"
+		type=infantry
+		home=127
+	}
+}
+
+army = {
+	name="112th Army"
+	location=136
+	regiment = {
+		name="1st Fort Laramie Infantry"
+		type=infantry
+		home=112
+	}
+	regiment = {
+		name="3rd Pueblo Infantry"
+		type=infantry
+		home=103
+	}
+	regiment = {
+		name="1st Fort Bonneville Infantry"
+		type=infantry
+		home=111
+	}
+	regiment = {
+		name="1st Clarksville Infantry"
+		type=infantry
+		home=43
+	}
+	regiment = {
+		name="1st Fort Snelling Infantry"
+		type=infantry
+		home=155
+	}
+	regiment = {
+		name="1st Fort Union Infantry"
+		type=infantry
+		home=119
+	}
+	regiment = {
+		name="6th Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+}
+
+army = {
+	name="138th Army"
+	location=174
+	regiment = {
+		name="1st Santa Fe Infantry"
+		type=infantry
+		home=105
+	}
+	regiment = {
+		name="2nd Santa Fe Infantry"
+		type=infantry
+		home=105
+	}
+	regiment = {
+		name="1st Fort James Infantry"
+		type=infantry
+		home=118
+	}
+}
+
+army = {
+	name="1st Army"
+	location=184
+	regiment = {
+		name="1st Peoria Infantry"
+		type=infantry
+		home=166
+	}
+	regiment = {
+		name="1st Kansas City Infantry"
+		type=infantry
+		home=150
+	}
+	regiment = {
+		name="1st Fort Renville Infantry"
+		type=infantry
+		home=156
+	}
+}
+
+army = {
+	name="8th Army"
+	location=136
+	regiment = {
+		name="1st Memphis Infantry"
+		type=infantry
+		home=189
+	}
+	regiment = {
+		name="1st Oskaloosa Infantry"
+		type=infantry
+		home=152
+	}
+	regiment = {
+		name="2nd Des Moines Infantry"
+		type=infantry
+		home=151
+	}
+	regiment = {
+		name="1st Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="2nd Peoria Infantry"
+		type=infantry
+		home=166
+	}
+	regiment = {
+		name="1st Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st Grand Portage Infantry"
+		type=infantry
+		home=158
+	}
+}
+
+army = {
+	name="51st Army"
+	location=2165
+	regiment = {
+		name="1st Tampico Infantry"
+		type=infantry
+		home=2163
+	}
+	regiment = {
+		name="1st Querétaro Infantry"
+		type=infantry
+		home=2173
+	}
+	regiment = {
+		name="1st Ciudad Victoria Infantry"
+		type=infantry
+		home=2150
+	}
+	regiment = {
+		name="2nd Comayagua Infantry"
+		type=infantry
+		home=2193
+	}
+	regiment = {
+		name="1st Chilpancingo Infantry"
+		type=infantry
+		home=2180
+	}
+	regiment = {
+		name="1st Morelia Infantry"
+		type=infantry
+		home=2170
+	}
+	regiment = {
+		name="2nd Bacalar Infantry"
+		type=infantry
+		home=2185
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=75
+	ship = {
+		name="Nornen"
+		type=frigate
+	}
+	ship = {
+		name="1st Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Charleston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Veracruz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Veracruz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gaeta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tapachula Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Charleston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Campeche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Charleston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Pedro Sula Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Comayagua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Icelandic Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Annapolis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Lempira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Long Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Biloxi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Comayagua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ocos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baton Rouge Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tampico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Providence Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mobile Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Veracruz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Newark Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Long Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Pierre & Miquelon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tampa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Biloxi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Acapulco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mérida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lewiston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nidaros"
+		type=frigate
+	}
+	ship = {
+		name="1st Wilmington Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mérida Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2234
+	regiment = {
+		name="1st Matamoros Infantry"
+		type=infantry
+		home=2149
+	}
+	regiment = {
+		name="2nd Fort Union Infantry"
+		type=infantry
+		home=119
+	}
+	regiment = {
+		name="1st Chihuahua Infantry"
+		type=infantry
+		home=2142
+	}
+	regiment = {
+		name="1st Prince Edward Island Infantry"
+		type=infantry
+		home=70
+	}
+	regiment = {
+		name="1st Fort Ellice Artillery"
+		type=artillery
+		home=41
+	}
+	regiment = {
+		name="1st Augusta Artillery"
+		type=artillery
+		home=2555
+	}
+	regiment = {
+		name="2nd Fort Parker Artillery"
+		type=artillery
+		home=134
+	}
+	regiment = {
+		name="1st Laredo Artillery"
+		type=artillery
+		home=138
+	}
+	regiment = {
+		name="3rd Fort Clark Artillery"
+		type=artillery
+		home=117
+	}
+}
+
+army = {
+	name="14th Army"
+	location=328
+	regiment = {
+		name="1st Port-Aux-Basques Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="2nd Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="2nd Fort Bonneville Infantry"
+		type=infantry
+		home=111
+	}
+	regiment = {
+		name="1st Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="1st Fort Vancouver Infantry"
+		type=infantry
+		home=79
+	}
+	regiment = {
+		name="2nd Albuquerque Infantry"
+		type=infantry
+		home=2148
+	}
+	regiment = {
+		name="3rd Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="1st Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="1st Temiscaming Artillery"
+		type=artillery
+		home=63
+	}
+	regiment = {
+		name="4th Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Jackson Artillery"
+		type=artillery
+		home=192
+	}
+	regiment = {
+		name="1st Clarksville Artillery"
+		type=artillery
+		home=43
+	}
+	regiment = {
+		name="5th Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="4th Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+	regiment = {
+		name="1st Phoenix Artillery"
+		type=artillery
+		home=100
+	}
+	regiment = {
+		name="2nd Jackson Artillery"
+		type=artillery
+		home=192
+	}
+	regiment = {
+		name="2nd Temiscaming Artillery"
+		type=artillery
+		home=63
+	}
+	regiment = {
+		name="7th Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+}
+
+army = {
+	name="21st Army"
+	location=2209
+	regiment = {
+		name="1st Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="1st Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="1st Cololo Infantry"
+		type=infantry
+		home=2171
+	}
+	regiment = {
+		name="1st Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Minatitlán Infantry"
+		type=infantry
+		home=2164
+	}
+	regiment = {
+		name="1st Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="2nd Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="1st Shreveport Infantry"
+		type=infantry
+		home=142
+	}
+	regiment = {
+		name="1st Greenville Artillery"
+		type=artillery
+		home=207
+	}
+	regiment = {
+		name="1st Charlotte Artillery"
+		type=artillery
+		home=209
+	}
+	regiment = {
+		name="1st Wilmington Artillery"
+		type=artillery
+		home=210
+	}
+	regiment = {
+		name="1st Staunton Artillery"
+		type=artillery
+		home=215
+	}
+	regiment = {
+		name="1st Raleigh Artillery"
+		type=artillery
+		home=208
+	}
+	regiment = {
+		name="1st Guadalajara Artillery"
+		type=artillery
+		home=2166
+	}
+	regiment = {
+		name="2nd Wilmington Artillery"
+		type=artillery
+		home=210
+	}
+	regiment = {
+		name="3rd Wilmington Artillery"
+		type=artillery
+		home=210
+	}
+	regiment = {
+		name="1st Charleston Artillery"
+		type=artillery
+		home=205
+	}
+	regiment = {
+		name="3rd Cololo Infantry"
+		type=infantry
+		home=2171
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=174
+	regiment = {
+		name="1st Hot Springs Infantry"
+		type=infantry
+		home=144
+	}
+	regiment = {
+		name="1st Springfield Infantry"
+		type=infantry
+		home=167
+	}
+	regiment = {
+		name="2nd Fort Parker Infantry"
+		type=infantry
+		home=134
+	}
+}
+
+army = {
+	name="10th Army"
+	location=335
+	regiment = {
+		name="2nd Memphis Infantry"
+		type=infantry
+		home=189
+	}
+	regiment = {
+		name="2nd Oskaloosa Infantry"
+		type=infantry
+		home=152
+	}
+	regiment = {
+		name="3rd Oskaloosa Infantry"
+		type=infantry
+		home=152
+	}
+	regiment = {
+		name="2nd Port-Aux-Basques Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="1st Tampa Infantry"
+		type=infantry
+		home=200
+	}
+	regiment = {
+		name="2nd Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="2nd El Paso Infantry"
+		type=infantry
+		home=136
+	}
+	regiment = {
+		name="1st Phoenix Infantry"
+		type=infantry
+		home=100
+	}
+	regiment = {
+		name="1st Santa Fe Artillery"
+		type=artillery
+		home=105
+	}
+	regiment = {
+		name="2nd Fort Gibson Artillery"
+		type=artillery
+		home=130
+	}
+	regiment = {
+		name="1st Tampa Artillery"
+		type=artillery
+		home=200
+	}
+	regiment = {
+		name="2nd Clarksville Artillery"
+		type=artillery
+		home=43
+	}
+	regiment = {
+		name="1st Valdosta Artillery"
+		type=artillery
+		home=202
+	}
+	regiment = {
+		name="1st Inverness Artillery"
+		type=artillery
+		home=267
+	}
+	regiment = {
+		name="1st Fort Pitt Artillery"
+		type=artillery
+		home=35
+	}
+	regiment = {
+		name="1st Saltillo Artillery"
+		type=artillery
+		home=2151
+	}
+	regiment = {
+		name="1st Austin Infantry"
+		type=infantry
+		home=133
+	}
+}
+
+army = {
+	name="19th Army"
+	location=187
+	regiment = {
+		name="1st Rockford Infantry"
+		type=infantry
+		home=164
+	}
+	regiment = {
+		name="1st Fort Pierre Infantry"
+		type=infantry
+		home=122
+	}
+	regiment = {
+		name="4th Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+}
+
+army = {
+	name="20th Army"
+	location=135
+	regiment = {
+		name="3rd Comayagua Infantry"
+		type=infantry
+		home=2193
+	}
+	regiment = {
+		name="1st Malden Infantry"
+		type=infantry
+		home=148
+	}
+	regiment = {
+		name="1st La Mesilla Infantry"
+		type=infantry
+		home=2187
+	}
+	regiment = {
+		name="1st Animas Infantry"
+		type=infantry
+		home=2662
+	}
+	regiment = {
+		name="2nd San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="2nd Ciudad Victoria Infantry"
+		type=infantry
+		home=2150
+	}
+}
+
+army = {
+	name="27th Army"
+	location=2164
+	regiment = {
+		name="1st Guatemala City Infantry"
+		type=infantry
+		home=2186
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home=2184
+	}
+	regiment = {
+		name="1st Tuxtla Infantry"
+		type=infantry
+		home=2181
+	}
+	regiment = {
+		name="3rd Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="2nd Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="3rd Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="2nd Guatemala City Infantry"
+		type=infantry
+		home=2186
+	}
+}
+
+army = {
+	name="9th Army"
+	location=316
+	regiment = {
+		name="1st Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="2nd Fort Vancouver Infantry"
+		type=infantry
+		home=79
+	}
+	regiment = {
+		name="1st Asheville Infantry"
+		type=infantry
+		home=2556
+	}
+	regiment = {
+		name="2nd Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Valdosta Infantry"
+		type=infantry
+		home=202
+	}
+	regiment = {
+		name="2nd Tampa Infantry"
+		type=infantry
+		home=200
+	}
+}
+
+army = {
+	name="29th Army"
+	location=330
+	regiment = {
+		name="2nd Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="2nd Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="3rd Port-Aux-Basques Infantry"
+		type=infantry
+		home=75
+	}
+	regiment = {
+		name="2nd Asheville Infantry"
+		type=infantry
+		home=2556
+	}
+	regiment = {
+		name="2nd Phoenix Infantry"
+		type=infantry
+		home=100
+	}
+	regiment = {
+		name="3rd Santa Fe Infantry"
+		type=infantry
+		home=105
+	}
+	regiment = {
+		name="1st Prince Rupert Infantry"
+		type=infantry
+		home=15
+	}
+	regiment = {
+		name="4th Fontenelle's Post Infantry"
+		type=infantry
+		home=125
+	}
+	regiment = {
+		name="2nd Tampa Artillery"
+		type=artillery
+		home=200
+	}
+	regiment = {
+		name="1st Flagstaff Artillery"
+		type=artillery
+		home=101
+	}
+	regiment = {
+		name="3rd Clarksville Artillery"
+		type=artillery
+		home=43
+	}
+	regiment = {
+		name="6th Fort Vancouver Artillery"
+		type=artillery
+		home=79
+	}
+	regiment = {
+		name="1st Prince Rupert Artillery"
+		type=artillery
+		home=15
+	}
+	regiment = {
+		name="5th Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+	regiment = {
+		name="1st Mojave Artillery"
+		type=artillery
+		home=88
+	}
+	regiment = {
+		name="3rd Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+}
+
+army = {
+	name="16th Army"
+	location=325
+	regiment = {
+		name="2nd Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="1st Fort Benton Infantry"
+		type=infantry
+		home=115
+	}
+	regiment = {
+		name="3rd Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+	regiment = {
+		name="2nd Valdosta Infantry"
+		type=infantry
+		home=202
+	}
+	regiment = {
+		name="3rd Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="1st Flagstaff Infantry"
+		type=infantry
+		home=101
+	}
+	regiment = {
+		name="3rd Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="1st Puerto Vallarta Artillery"
+		type=artillery
+		home=2168
+	}
+	regiment = {
+		name="1st Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="5th Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Orillia Artillery"
+		type=artillery
+		home=52
+	}
+	regiment = {
+		name="1st Asheville Artillery"
+		type=artillery
+		home=2556
+	}
+	regiment = {
+		name="1st Veracruz Artillery"
+		type=artillery
+		home=2162
+	}
+	regiment = {
+		name="1st Morelia Artillery"
+		type=artillery
+		home=2170
+	}
+	regiment = {
+		name="2nd Phoenix Artillery"
+		type=artillery
+		home=100
+	}
+	regiment = {
+		name="4th Albuquerque Infantry"
+		type=infantry
+		home=2148
+	}
+}
+
+army = {
+	name="5th Army"
+	location=134
+	regiment = {
+		name="1st Delicias Infantry"
+		type=infantry
+		home=2144
+	}
+	regiment = {
+		name="1st Santa María del Oro Infantry"
+		type=infantry
+		home=2154
+	}
+	regiment = {
+		name="2nd Tulancingo Infantry"
+		type=infantry
+		home=2175
+	}
+	regiment = {
+		name="1st Puerto Vallarta Infantry"
+		type=infantry
+		home=2168
+	}
+	regiment = {
+		name="1st Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+	regiment = {
+		name="4th Guadalajara Infantry"
+		type=infantry
+		home=2166
+	}
+	regiment = {
+		name="2nd Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+}
+
+army = {
+	name="24th Army"
+	location=169
+	regiment = {
+		name="3rd Fort Parker Infantry"
+		type=infantry
+		home=134
+	}
+	regiment = {
+		name="5th Fort Leavenworth Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="2nd Clarksville Infantry"
+		type=infantry
+		home=43
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st San Salvador Artillery"
+		type=artillery
+		home=2191
+	}
+	regiment = {
+		name="1st Querétaro Artillery"
+		type=artillery
+		home=2173
+	}
+	regiment = {
+		name="1st Bacalar Artillery"
+		type=artillery
+		home=2185
+	}
+}
+
+army = {
+	name="7th Army"
+	location=103
+	regiment = {
+		name="2nd Querétaro Infantry"
+		type=infantry
+		home=2173
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+	regiment = {
+		name="2nd Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="4th Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="2nd Cololo Infantry"
+		type=infantry
+		home=2171
+	}
+	regiment = {
+		name="2nd Tampico Infantry"
+		type=infantry
+		home=2163
+	}
+	regiment = {
+		name="5th Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+}
+
+army = {
+	name="26th Army"
+	location=168
+	regiment = {
+		name="4th Pueblo Infantry"
+		type=infantry
+		home=103
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=210
+	regiment = {
+		name="1st Yaviza Infantry"
+		type=infantry
+		home=2208
+	}
+}
+
+army = {
+	name="17th Army"
+	location=332
+	regiment = {
+		name="2nd Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="4th Santa Fe Infantry"
+		type=infantry
+		home=105
+	}
+	regiment = {
+		name="4th Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Bacalar Infantry"
+		type=infantry
+		home=2185
+	}
+	regiment = {
+		name="2nd Springfield Infantry"
+		type=infantry
+		home=167
+	}
+	regiment = {
+		name="1st Orillia Infantry"
+		type=infantry
+		home=52
+	}
+	regiment = {
+		name="1st Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+}
+
+army = {
+	name="49th Army"
+	location=30
+	regiment = {
+		name="1st Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st Gallatin Valley Infantry"
+		type=infantry
+		home=113
+	}
+	regiment = {
+		name="2nd Fort Benton Infantry"
+		type=infantry
+		home=115
+	}
+	regiment = {
+		name="1st Regina Infantry"
+		type=infantry
+		home=30
+	}
+	regiment = {
+		name="2nd Fort Ellice Artillery"
+		type=artillery
+		home=41
+	}
+	regiment = {
+		name="1st Fort Vermilion Artillery"
+		type=artillery
+		home=2597
+	}
+	regiment = {
+		name="2nd Fort Laramie Artillery"
+		type=artillery
+		home=112
+	}
+	regiment = {
+		name="2nd Fort Vermilion Artillery"
+		type=artillery
+		home=2597
+	}
+	regiment = {
+		name="1st Des Moines Artillery"
+		type=artillery
+		home=151
+	}
+}
+
+army = {
+	name="52nd Army"
+	location=80
+	regiment = {
+		name="1st Grande Ronde Infantry"
+		type=infantry
+		home=82
+	}
+	regiment = {
+		name="1st Truckee Infantry"
+		type=infantry
+		home=86
+	}
+	regiment = {
+		name="3rd Fort Vancouver Infantry"
+		type=infantry
+		home=79
+	}
+	regiment = {
+		name="1st Valemount Infantry"
+		type=infantry
+		home=19
+	}
+	regiment = {
+		name="1st Sacramento Artillery"
+		type=artillery
+		home=84
+	}
+	regiment = {
+		name="2nd Mojave Artillery"
+		type=artillery
+		home=88
+	}
+	regiment = {
+		name="3rd Fort Laramie Artillery"
+		type=artillery
+		home=112
+	}
+	regiment = {
+		name="3rd Mojave Artillery"
+		type=artillery
+		home=88
+	}
+	regiment = {
+		name="1st Fort Van Buren Artillery"
+		type=artillery
+		home=116
+	}
+}
+
+army = {
+	name="72nd Army"
+	location=38
+	regiment = {
+		name="1st La Ronge Infantry"
+		type=infantry
+		home=32
+	}
+	regiment = {
+		name="1st Rat Portage Infantry"
+		type=infantry
+		home=49
+	}
+	regiment = {
+		name="2nd Fort James Infantry"
+		type=infantry
+		home=118
+	}
+	regiment = {
+		name="2nd Regina Infantry"
+		type=infantry
+		home=30
+	}
+	regiment = {
+		name="2nd Fort Pitt Artillery"
+		type=artillery
+		home=35
+	}
+	regiment = {
+		name="1st Sault Ste Marie Artillery"
+		type=artillery
+		home=51
+	}
+	regiment = {
+		name="1st Fort Clark Artillery"
+		type=artillery
+		home=117
+	}
+	regiment = {
+		name="2nd Fort Clark Artillery"
+		type=artillery
+		home=117
+	}
+	regiment = {
+		name="1st Green Bay Artillery"
+		type=artillery
+		home=161
+	}
+}
+
+army = {
+	name="99th Army"
+	location=129
+	regiment = {
+		name="1st Fort Gibson Infantry"
+		type=infantry
+		home=130
+	}
+	regiment = {
+		name="3rd Clarksville Infantry"
+		type=infantry
+		home=43
+	}
+	regiment = {
+		name="2nd Laredo Infantry"
+		type=infantry
+		home=138
+	}
+	regiment = {
+		name="3rd San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st Joplin Artillery"
+		type=artillery
+		home=147
+	}
+	regiment = {
+		name="2nd Laredo Artillery"
+		type=artillery
+		home=138
+	}
+	regiment = {
+		name="1st Hot Springs Artillery"
+		type=artillery
+		home=144
+	}
+	regiment = {
+		name="1st Little Rock Artillery"
+		type=artillery
+		home=143
+	}
+	regiment = {
+		name="2nd Animas Artillery"
+		type=artillery
+		home=2662
+	}
+}
+
+army = {
+	name="36th Army"
+	location=105
+	regiment = {
+		name="3rd Phoenix Infantry"
+		type=infantry
+		home=100
+	}
+	regiment = {
+		name="3rd Albuquerque Infantry"
+		type=infantry
+		home=2148
+	}
+	regiment = {
+		name="2nd Ciudad Juarez Infantry"
+		type=infantry
+		home=2143
+	}
+	regiment = {
+		name="2nd Chihuahua Infantry"
+		type=infantry
+		home=2142
+	}
+	regiment = {
+		name="1st Hermosillo Artillery"
+		type=artillery
+		home=2140
+	}
+	regiment = {
+		name="3rd Fort Parker Artillery"
+		type=artillery
+		home=134
+	}
+	regiment = {
+		name="2nd Fort Washita Artillery"
+		type=artillery
+		home=131
+	}
+	regiment = {
+		name="1st Guymon Artillery"
+		type=artillery
+		home=129
+	}
+	regiment = {
+		name="1st Nogales Artillery"
+		type=artillery
+		home=2137
+	}
+}
+
+army = {
+	name="74th Army"
+	location=101
+	regiment = {
+		name="2nd Flagstaff Infantry"
+		type=infantry
+		home=101
+	}
+	regiment = {
+		name="2nd Animas Infantry"
+		type=infantry
+		home=2662
+	}
+	regiment = {
+		name="4th Phoenix Infantry"
+		type=infantry
+		home=100
+	}
+	regiment = {
+		name="3rd Ciudad Juarez Infantry"
+		type=infantry
+		home=2143
+	}
+	regiment = {
+		name="1st El Paso Artillery"
+		type=artillery
+		home=136
+	}
+	regiment = {
+		name="1st Ciudad Juarez Artillery"
+		type=artillery
+		home=2143
+	}
+	regiment = {
+		name="1st Parral Artillery"
+		type=artillery
+		home=2145
+	}
+	regiment = {
+		name="1st San Francisco Artillery"
+		type=artillery
+		home=104
+	}
+	regiment = {
+		name="1st Santa María del Oro Artillery"
+		type=artillery
+		home=2154
+	}
+}
+
+army = {
+	name="113th Army"
+	location=115
+	regiment = {
+		name="3rd Fort Benton Infantry"
+		type=infantry
+		home=115
+	}
+	regiment = {
+		name="3rd Fort James Infantry"
+		type=infantry
+		home=118
+	}
+	regiment = {
+		name="2nd Fort Van Buren Infantry"
+		type=infantry
+		home=116
+	}
+	regiment = {
+		name="1st Fort Clark Infantry"
+		type=infantry
+		home=117
+	}
+	regiment = {
+		name="1st Dauphin Artillery"
+		type=artillery
+		home=40
+	}
+	regiment = {
+		name="1st Fort McMurray Artillery"
+		type=artillery
+		home=23
+	}
+	regiment = {
+		name="1st Fontenelle's Post Artillery"
+		type=artillery
+		home=125
+	}
+	regiment = {
+		name="1st Boise Artillery"
+		type=artillery
+		home=91
+	}
+}
+
+army = {
+	name="80th Army"
+	location=78
+	regiment = {
+		name="2nd Prince Rupert Infantry"
+		type=infantry
+		home=15
+	}
+	regiment = {
+		name="1st New Westminster Infantry"
+		type=infantry
+		home=13
+	}
+	regiment = {
+		name="2nd Valemount Infantry"
+		type=infantry
+		home=19
+	}
+	regiment = {
+		name="1st Victoria Infantry"
+		type=infantry
+		home=14
+	}
+	regiment = {
+		name="1st Edmonton Artillery"
+		type=artillery
+		home=27
+	}
+	regiment = {
+		name="2nd Prince Rupert Artillery"
+		type=artillery
+		home=15
+	}
+	regiment = {
+		name="1st Old Bow Fort Artillery"
+		type=artillery
+		home=25
+	}
+	regiment = {
+		name="3rd Fort Vermilion Artillery"
+		type=artillery
+		home=2597
+	}
+}
+
+army = {
+	name="38th Army"
+	location=88
+	regiment = {
+		name="2nd Mojave Infantry"
+		type=infantry
+		home=88
+	}
+	regiment = {
+		name="3rd Mojave Infantry"
+		type=infantry
+		home=88
+	}
+	regiment = {
+		name="1st Los Angeles Infantry"
+		type=infantry
+		home=89
+	}
+	regiment = {
+		name="1st San Francisco Infantry"
+		type=infantry
+		home=104
+	}
+	regiment = {
+		name="2nd Parral Artillery"
+		type=artillery
+		home=2145
+	}
+	regiment = {
+		name="1st Albuquerque Artillery"
+		type=artillery
+		home=2148
+	}
+	regiment = {
+		name="1st Loreto Artillery"
+		type=artillery
+		home=2138
+	}
+	regiment = {
+		name="2nd Santa Fe Artillery"
+		type=artillery
+		home=105
+	}
+}
+

@@ -1,0 +1,9 @@
+owner=X11
+controller=X11
+add_core=ARA
+add_core=DAW
+add_core=X11
+trade_goods = opium
+life_rating = 20
+terrain = desert
+naval_base = 1

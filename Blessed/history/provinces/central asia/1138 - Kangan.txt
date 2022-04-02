@@ -1,0 +1,8 @@
+owner=PNT
+controller=PNT
+add_core=RDL
+add_core=SRN
+trade_goods = fish
+life_rating = 35
+terrain = semidesert
+colonial=2

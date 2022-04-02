@@ -1,0 +1,7 @@
+owner=X17
+controller=X17
+add_core=KAZ
+add_core=X22
+add_core=YRK
+trade_goods = cotton
+life_rating = 32

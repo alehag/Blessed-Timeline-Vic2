@@ -1,0 +1,7 @@
+owner=X14
+controller=X14
+add_core=HND
+add_core=ORI
+add_core=SRI
+trade_goods = grain
+life_rating = 32

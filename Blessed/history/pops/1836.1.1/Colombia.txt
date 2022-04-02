@@ -1,0 +1,2498 @@
+2247 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3953
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 5022
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3587
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 583
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 206
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1130
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 75060
+	}
+
+}
+2248 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 462
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 936
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8622
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 1885
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 3815
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1964
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 319
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 123
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 412
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 32828
+	}
+
+}
+2249 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3805
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 2718
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 102
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 571
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 60195
+	}
+
+}
+2250 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 560
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9028
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 2179
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 6498
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 116
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 780
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 29092
+	}
+
+}
+2251 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 548
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 172
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5213
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 39
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 3694
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = cathar
+		size= 6257
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = cathar
+		size= 290
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 112
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 29417
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 6251
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 9512
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 170
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 571
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 50834
+	}
+
+}
+2252 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2136
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 659
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 864
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7934
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 13769
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 4252
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 11402
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1059
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 244
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1026
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 44044
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2233
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8943
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 16362
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 5052
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = cathar
+		size= 14002
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = cathar
+		size= 1300
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 300
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 160
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 1260
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 52051
+	}
+
+}
+2253 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11165
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1072
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6414
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 72858
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 5471
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 889
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 342
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 219
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 2298
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 35654
+	}
+
+}
+2254 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10229
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 616
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6227
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 55483
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = cathar
+		size= 14757
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = cathar
+		size= 1370
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 317
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 2656
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 17157
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 21119
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 727
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 5553
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 515
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 119
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 7449
+	}
+
+}
+2255 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 21275
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6000
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9131
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 848
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 248
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1644
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 25922
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11515
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3248
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1983
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 54
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 357
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17927
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 72699
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 20505
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = cathar
+		size= 34162
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = cathar
+		size= 3172
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 927
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 586
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = cathar
+		size= 6150
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = cathar
+		size= 85198
+	}
+
+}
+2256 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 973
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6263
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 3968
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1447
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 304
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 23448
+	}
+
+}
+2257 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1751
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 12
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 16452
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 7750
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 13792
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1281
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 246
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 236
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1655
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 59477
+	}
+
+}
+2258 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4769
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2467
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 19443
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 611
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1447
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 304
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 8417
+	}
+
+}
+2259 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 7
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 9561
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 13651
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 23457
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 2177
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 418
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 403
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 4223
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 104209
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1331
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 506
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12474
+	}
+
+}
+2260 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = animist
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 4609
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 3407
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 6438
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 465
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 179
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1203
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 49023
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4249
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3966
+	}
+
+}
+2261 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = animist
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 4609
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 3407
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 6438
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 465
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 179
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1203
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 49023
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4249
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = shiite
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3966
+	}
+
+}
+2262 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1571
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5512
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 29096
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 8148
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 23355
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1084
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 484
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 267
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 2804
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 80457
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4120
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1153
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 721
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 14462
+	}
+
+}
+2263 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = animist
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 3524
+	}
+
+	soldiers=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 1227
+	}
+
+	artisans=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 3478
+	}
+
+	clergymen=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 62
+	}
+
+	officers=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = andalusian_andes_superregion_culture
+		religion = sunni
+		size= 16769
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4755
+	}
+
+	soldiers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 1075
+	}
+
+	artisans=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 3241
+	}
+
+	clergymen=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 58
+	}
+
+	officers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = andalusian_south_america_superregion_culture
+		religion = sunni
+		size= 14501
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=BOH
+controller=BOH
+add_core=ITA
+trade_goods = fish
+life_rating = 40

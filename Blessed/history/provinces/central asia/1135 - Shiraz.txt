@@ -1,0 +1,7 @@
+owner=PER
+controller=PNT
+add_core=RDL
+add_core=SRN
+trade_goods = opium
+life_rating = 35
+fort = 1

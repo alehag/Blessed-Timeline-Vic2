@@ -1,0 +1,5 @@
+owner=X27
+controller=X27
+add_core=AUP
+trade_goods = grain
+life_rating = 31

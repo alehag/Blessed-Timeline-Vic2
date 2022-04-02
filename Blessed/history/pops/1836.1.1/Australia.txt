@@ -1,0 +1,3893 @@
+2468 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2028
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31757
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1448
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 471
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 456
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 47
+	}
+
+}
+2469 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2028
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31757
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1448
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 471
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 456
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 47
+	}
+
+}
+2470 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 12984
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 183527
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27806
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5003
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2579
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 475
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 416
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 9692
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 28887
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 2682
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 494
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 433
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 5200
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 126439
+	}
+
+}
+2471 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2028
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31757
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1448
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 471
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 456
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 47
+	}
+
+}
+2472 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4069
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5680
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 410
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1059
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 61214
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 150
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 132
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 3237
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 6062
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 437
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 162
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 46640
+	}
+
+}
+2473 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 182
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8675
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 3464
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 93
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 26455
+	}
+
+}
+2474 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1446
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7230
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 337
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 433
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 42088
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 98
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 82
+	}
+
+}
+2475 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 920
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14827
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 574
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 3341
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 10078
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 173
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1209
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 44429
+	}
+
+}
+2476 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4877
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 44563
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2119
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 688
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 667
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26
+	}
+
+}
+2477 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4921
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 359
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 39
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 16375
+	}
+
+}
+2478 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4125
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6278
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 291
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 33717
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 66
+	}
+
+}
+2479 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 246
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1767
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9656
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 556
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = animist
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 7233
+	}
+
+	craftsmen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 6403
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 4581
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 331
+	}
+
+	clerks=
+	{
+		culture = australienne
+		religion = cathar
+		size= 440
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 102
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 66
+	}
+
+	capitalists=
+	{
+		culture = australienne
+		religion = cathar
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 428
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 25109
+	}
+
+}
+2480 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4877
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 44563
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2119
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 688
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 667
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26
+	}
+
+}
+2481 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4125
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6278
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 291
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 33717
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 66
+	}
+
+}
+2482 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 33483
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 460875
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 83704
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15064
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7772
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 774
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 956
+	}
+
+}
+2483 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6875
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 16774
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1557
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 276
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 252
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1006
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 96566
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1191
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 3391
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 56
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 16060
+	}
+
+}
+2484 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 519
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 809
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 24404
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 6298
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 454
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 133
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 588
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 47089
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 755
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 3901
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 82
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = shiite
+		size= 32320
+	}
+
+}
+2485 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6720
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 511
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2776
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 59
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 21716
+	}
+
+}
+2486 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2815
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 856
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 34118
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 7199
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 10628
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 768
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 282
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 296
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1984
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 76252
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2655
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3926
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 105
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 732
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 28056
+	}
+
+}
+2487 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 407
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2852
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 16779
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26
+	}
+
+}
+2488 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1402
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 58644
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 9085
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 420
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 543
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 194
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 83
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 774
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 6134
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 131
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 30963
+	}
+
+}
+2489 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 407
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2852
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 16779
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26
+	}
+
+}
+2490 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6720
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 511
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2776
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 59
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 21716
+	}
+
+}
+2491 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11499
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 92161
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 17502
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3150
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 812
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 162
+	}
+
+}
+2492 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3024
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1138
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 9437
+	}
+
+}
+2493 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4921
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 359
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 39
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 16375
+	}
+
+}
+2494 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3024
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1138
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 9437
+	}
+
+}
+2495 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3024
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1138
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 9437
+	}
+
+}
+2496 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3024
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = cathar
+		size= 1138
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = cathar
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = cathar
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = cathar
+		size= 9437
+	}
+
+}
+2497 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1522
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 69490
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3043
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 988
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 958
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 152
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 98
+	}
+
+}
+2498 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4888
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 414
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3434
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 16419
+	}
+
+}
+2499 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1013
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14328
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2536
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 54
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 38
+	}
+
+}
+2500 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1903
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26504
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4755
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 81
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 70
+	}
+
+}
+2501 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2841
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40040
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6434
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 770
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 137
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 95
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1421
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 4216
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 507
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 18806
+	}
+
+}
+2502 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1013
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14328
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2536
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 54
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 38
+	}
+
+}
+2503 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1903
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 26504
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4755
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 81
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 70
+	}
+
+}
+2504 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4888
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 414
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3434
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 16419
+	}
+
+}
+2505 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3418
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7843
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 52294
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8773
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 813
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 789
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = animist
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 174
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = animist
+		size= 33
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 2071
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+}
+2506 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3418
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 60517
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8773
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 813
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 174
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 2071
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 415
+	}
+
+}
+2507 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3418
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 60517
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8773
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 813
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 174
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 2071
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 415
+	}
+
+}
+2508 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 11489
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 329
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 14815
+	}
+
+}
+2601 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2841
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40040
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6434
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 770
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 137
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 95
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1421
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 4216
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 507
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 18806
+	}
+
+}
+2602 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2841
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 40040
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 6434
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 770
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 137
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 95
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1421
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 4216
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 507
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 18806
+	}
+
+}
+2603 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 3418
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 60517
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 8773
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 813
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 174
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 180
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 2071
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = norse_pagan_reformed
+		size= 415
+	}
+
+}
+2604 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 7292
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 101991
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 17396
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1614
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2087
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 421
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 260
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1691
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 5052
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 469
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 123
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 606
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 22322
+	}
+
+}
+2605 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1013
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 14328
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = animist
+		size= 2536
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = animist
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = animist
+		size= 54
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 38
+	}
+
+}

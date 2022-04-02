@@ -1,0 +1,7 @@
+owner=RDL
+controller=RDL
+add_core=RDL
+add_core=SRN
+trade_goods = iron
+life_rating = 35
+fort = 2

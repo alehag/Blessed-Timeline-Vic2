@@ -1,0 +1,7 @@
+owner=ICL
+controller=ENG
+add_core=IRE
+trade_goods = wool
+life_rating = 30
+terrain = small_island
+fort = 1

@@ -1,0 +1,5 @@
+owner=ICL
+controller=ICL
+trade_goods = fruit
+life_rating = 32
+fort = 1

@@ -1,0 +1,170 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11719
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4097
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1558
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 31
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 26764
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 4841
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 1692
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 2847
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = norse_pagan_reformed
+		size= 8295
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 32072
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 11212
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 21468
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1993
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 429
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 444
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2576
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 51680
+	}
+
+}

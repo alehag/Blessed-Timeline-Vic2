@@ -1,0 +1,8 @@
+owner=TRX
+controller=TRX
+add_core=SHY
+add_core=TKS
+add_core=TRX
+trade_goods = fruit
+life_rating = 15
+terrain = desert

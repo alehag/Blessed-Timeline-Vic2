@@ -1,0 +1,9 @@
+owner=PNT
+controller=PNT
+add_core=HND
+add_core=SRI
+add_core=X03
+trade_goods = fish
+life_rating = 32
+terrain = small_island
+colonial=2

@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 1.0T "Teutonic"
+* Compatible with EU4 [v1.0-v1.32] and Vic2 [v3]
+* Built on Sat Dec 25 15:42:37 2021
+************************** + EU4 To Vic2 + ***************************

@@ -1,0 +1,1532 @@
+253 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 6654
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1266
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 64167
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2401
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 10033
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 931
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 143
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 602
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 19782
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 1196
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 4301
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 399
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 61
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = cathar
+		size= 6699
+	}
+
+}
+366 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 3983
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 2453
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 64108
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 2220
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 5189
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 105
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 474
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 31015
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 7733
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 729
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 157
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 706
+	}
+
+}
+367 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 3292
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 4115
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 382
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 82
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 50487
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 2948
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 11484
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 1066
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 230
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 1034
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 35702
+	}
+
+}
+368 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 4006
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 715
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 232
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 66269
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 2906
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 1753
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 123
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 552
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 45904
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 393
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 2749
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 894
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 192
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 866
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1777
+	}
+
+}
+370 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 1793
+	}
+
+	craftsmen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 5202
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 1121
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	clerks=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 23528
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 467
+	}
+
+	craftsmen=
+	{
+		culture = danish
+		religion = cathar
+		size= 1356
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 1705
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 158
+	}
+
+	clerks=
+	{
+		culture = danish
+		religion = cathar
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 24
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 26
+	}
+
+	capitalists=
+	{
+		culture = danish
+		religion = cathar
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 4252
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 555
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1612
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 4214
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 391
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = cathar
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 60
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 63
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = cathar
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 2139
+	}
+
+}
+371 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 1793
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 1121
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 28830
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 1705
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 24
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 5760
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 555
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 4214
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 391
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 60
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 4129
+	}
+
+}
+372 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 4234
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1347
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 491
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 106
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 476
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 68703
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 2615
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 3010
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 1098
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 237
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 1065
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 38124
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 2047
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 651
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 33225
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 2062
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 1963
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 716
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 154
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 694
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 30872
+	}
+
+}
+373 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 5233
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 50630
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = cathar
+		size= 4941
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = cathar
+		size= 1643
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = cathar
+		size= 534
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 115
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = cathar
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = cathar
+		size= 518
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = cathar
+		size= 45835
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 2245
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 730
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 157
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 707
+	}
+
+}
+374 = {
+	soldiers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 347
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 1213
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = norse_pagan_reformed
+		size= 32861
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 2244
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 45
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 11902
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 267
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7196
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 771
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 144
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 17826
+	}
+
+}
+2557 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 2504
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 1565
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 31
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = norse_pagan_reformed
+		size= 40265
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 2802
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 5067
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 471
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 101
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 608
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = cathar
+		size= 40905
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 7445
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 691
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 149
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 893
+	}
+
+}

@@ -1,0 +1,221 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 657
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 21871
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 1012
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = cathar
+		size= 1495
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 2234
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 13005
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 604
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 251
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 195
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 780
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 62731
+	}
+
+}

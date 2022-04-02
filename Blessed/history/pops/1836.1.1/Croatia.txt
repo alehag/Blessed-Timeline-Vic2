@@ -1,0 +1,1414 @@
+770 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size= 2200
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size= 6882
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size= 738
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 88
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 1239
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size= 98503
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 381
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 2147
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 15802
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 410
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = catholic
+		size= 11897
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = catholic
+		size= 1275
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 153
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = catholic
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 2141
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = catholic
+		size= 4480
+	}
+
+}
+771 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 6049
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 39555
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 500
+	}
+
+}
+772 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 6749
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 88
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 36855
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}
+773 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1079
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 13969
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 4248
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 17312
+	}
+
+}
+774 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 19955
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1648
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 41
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 519
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 27658
+	}
+
+}
+775 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 756
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1971
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 37
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 25244
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1123
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 7822
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 655
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 147
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 474
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 31602
+	}
+
+}
+776 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 554
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 7409
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 2200
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 9335
+	}
+
+}
+777 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 574
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 7453
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 122
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 2279
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 9390
+	}
+
+}
+778 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1079
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 13969
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 4248
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 17312
+	}
+
+}
+779 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 771
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 9996
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 3034
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 39
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 12438
+	}
+
+}
+780 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 369
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 2582
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 277
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 37
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 33375
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 528
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 9974
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1069
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 142
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 898
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 40129
+	}
+
+}
+781 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 168
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1174
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 15226
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 240
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 4533
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 421
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 18459
+	}
+
+}
+782 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 492
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 3443
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 369
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 69
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 310
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 44482
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 704
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 13298
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1425
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 266
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 1197
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 53428
+	}
+
+}
+793 = {
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 771
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 9996
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 3034
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 39
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = orthodox
+		size= 12438
+	}
+
+}

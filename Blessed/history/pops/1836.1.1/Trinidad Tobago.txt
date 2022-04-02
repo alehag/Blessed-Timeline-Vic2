@@ -1,0 +1,298 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6292
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 38896
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 2396
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 6636
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 616
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 399
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = sunni
+		size= 12871
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 793
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 2245
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 58
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 135
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6738
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 41645
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 2396
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 6636
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 616
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = norse_pagan_reformed
+		size= 399
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = sunni
+		size= 13780
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 793
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 2245
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 58
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = sunni
+		size= 135
+	}
+
+}

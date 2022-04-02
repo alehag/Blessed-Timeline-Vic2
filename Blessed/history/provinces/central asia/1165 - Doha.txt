@@ -1,0 +1,9 @@
+owner=PNT
+controller=PNT
+add_core=ALH
+add_core=ARA
+add_core=DAW
+trade_goods = fish
+life_rating = 34
+terrain = semidesert
+colonial=2

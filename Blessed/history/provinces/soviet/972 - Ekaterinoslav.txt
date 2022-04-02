@@ -1,0 +1,8 @@
+owner=PNT
+controller=PNT
+add_core=KIE
+add_core=UKR
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1

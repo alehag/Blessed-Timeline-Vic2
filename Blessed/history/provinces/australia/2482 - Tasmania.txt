@@ -1,0 +1,7 @@
+owner=AUP
+controller=AUP
+add_core=ABO
+add_core=AUP
+trade_goods = timber
+life_rating = 31
+naval_base = 2

@@ -1,0 +1,6 @@
+owner=X27
+controller=X27
+add_core=ABO
+add_core=AUE
+trade_goods = coal
+life_rating = 33

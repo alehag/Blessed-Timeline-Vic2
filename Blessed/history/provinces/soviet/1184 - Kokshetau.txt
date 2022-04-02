@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=SHY
+add_core=TKS
+add_core=X17
+add_core=X19
+trade_goods = iron
+life_rating = 35

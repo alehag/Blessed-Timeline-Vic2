@@ -1,0 +1,1506 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 2
+	level = 2
+}
+ALH = {
+	value = 2
+	level = 2
+}
+ARL = {
+	value = -12
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 19
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 34
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -5
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 7
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 17
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -25
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = -8
+	level = 2
+}
+GRE = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 9
+	level = 2
+}
+ITA = {
+	value = 32
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MOR = {
+	value = -81
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -77
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = -13
+	level = 2
+}
+ROM = {
+	value = 146
+	influence_value = 24
+	level = 3
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = -51
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 38
+	level = 2
+}
+X02 = {
+	value = 119
+	influence_value = 17
+	level = 3
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 25
+	level = 2
+}
+X12 = {
+	value = 32
+	level = 2
+}
+X13 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 7
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 1
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Andreas Myxares"
+	date="1791.10.1"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Lykos Monocharzanios"
+	date="1814.1.25"
+	type=land
+	personality="efficient"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="15th Army"
+	location=901
+	regiment = {
+		name="1st Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="1st Deir ez-Zor Infantry"
+		type=infantry
+		home=907
+	}
+	regiment = {
+		name="1st Izmir Artillery"
+		type=artillery
+		home=869
+	}
+	regiment = {
+		name="1st Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="1st Marash Artillery"
+		type=artillery
+		home=896
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1325
+	regiment = {
+		name="1st Umerkot Infantry"
+		type=infantry
+		home=1290
+	}
+	regiment = {
+		name="1st Patan Infantry"
+		type=infantry
+		home=1294
+	}
+	regiment = {
+		name="4th Karachi Infantry"
+		type=infantry
+		home=1288
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1292
+	regiment = {
+		name="1st Karachi Infantry"
+		type=infantry
+		home=1288
+	}
+	regiment = {
+		name="1st Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="2nd Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="2nd Karachi Infantry"
+		type=infantry
+		home=1288
+	}
+	regiment = {
+		name="1st Ahmedabad Artillery"
+		type=artillery
+		home=1291
+	}
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="2nd Ahmedabad Artillery"
+		type=artillery
+		home=1291
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=1297
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="1st Qeshm Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Patras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yekaterinodar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Famagusta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Qeshm Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antakya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bandar Abbas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acre Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Famagusta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ubykhia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sukhumi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kastamonu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Poti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rostov Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Iraklion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ubykhia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antakya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sinop Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antalya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mariupol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gallipoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pontic Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Famagusta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ubykhia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmit Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lengeh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Pontic Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canakkale Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gaza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Athens Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nicosia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Batum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Al Arish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Acre Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jaffa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Pontic Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mersin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Masulipatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trincomalee Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Masulipatnam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pontic Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="70th Army"
+	location=1308
+	regiment = {
+		name="2nd Umerkot Infantry"
+		type=infantry
+		home=1290
+	}
+	regiment = {
+		name="1st Nasik Infantry"
+		type=infantry
+		home=1298
+	}
+	regiment = {
+		name="1st Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="2nd Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1306
+	regiment = {
+		name="1st Kirklareli Infantry"
+		type=infantry
+		home=858
+	}
+	regiment = {
+		name="1st Firozpur Infantry"
+		type=infantry
+		home=1234
+	}
+	regiment = {
+		name="1st Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="4th Multan Infantry"
+		type=infantry
+		home=1228
+	}
+	regiment = {
+		name="2nd Poona Artillery"
+		type=artillery
+		home=1299
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=919
+	regiment = {
+		name="1st Bushire Infantry"
+		type=infantry
+		home=1136
+	}
+	regiment = {
+		name="1st Sukkur Infantry"
+		type=infantry
+		home=1289
+	}
+	regiment = {
+		name="1st Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="1st Bombay Artillery"
+		type=artillery
+		home=1297
+	}
+	regiment = {
+		name="1st Mersin Artillery"
+		type=artillery
+		home=895
+	}
+	regiment = {
+		name="10th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="1st Üsküdar Artillery"
+		type=artillery
+		home=861
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1756
+	regiment = {
+		name="1st Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="1st Marash Infantry"
+		type=infantry
+		home=896
+	}
+	regiment = {
+		name="2nd Ankara Infantry"
+		type=infantry
+		home=876
+	}
+}
+
+army = {
+	name="36th Army"
+	location=1285
+	regiment = {
+		name="1st Kolhapur Infantry"
+		type=infantry
+		home=1301
+	}
+	regiment = {
+		name="1st Gulbarga Infantry"
+		type=infantry
+		home=1286
+	}
+	regiment = {
+		name="2nd Gulbarga Infantry"
+		type=infantry
+		home=1286
+	}
+	regiment = {
+		name="1st Hyderabad Infantry"
+		type=infantry
+		home=1283
+	}
+	regiment = {
+		name="1st Amarati Artillery"
+		type=artillery
+		home=1278
+	}
+	regiment = {
+		name="1st Bijapur Artillery"
+		type=artillery
+		home=1300
+	}
+	regiment = {
+		name="1st Goa Infantry"
+		type=infantry
+		home=1303
+	}
+	regiment = {
+		name="2nd Bombay Artillery"
+		type=artillery
+		home=1297
+	}
+}
+
+army = {
+	name="44th Army"
+	location=1281
+	regiment = {
+		name="1st Jaisalmer Infantry"
+		type=infantry
+		home=1265
+	}
+	regiment = {
+		name="9th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+}
+
+army = {
+	name="60th Army"
+	location=1302
+	regiment = {
+		name="1st Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+	regiment = {
+		name="1st Mandvi Infantry"
+		type=infantry
+		home=1293
+	}
+	regiment = {
+		name="1st Bombay Infantry"
+		type=infantry
+		home=1297
+	}
+	regiment = {
+		name="2nd Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="2nd Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+	regiment = {
+		name="1st Bahawalpur Artillery"
+		type=artillery
+		home=1231
+	}
+	regiment = {
+		name="1st Dalbandin Artillery"
+		type=artillery
+		home=1220
+	}
+	regiment = {
+		name="1st Bela Infantry"
+		type=infantry
+		home=1222
+	}
+	regiment = {
+		name="2nd Bahawalpur Artillery"
+		type=artillery
+		home=1231
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1168
+	regiment = {
+		name="1st Multan Infantry"
+		type=infantry
+		home=1228
+	}
+	regiment = {
+		name="3rd Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="1st Hoshangabad Infantry"
+		type=infantry
+		home=1276
+	}
+	regiment = {
+		name="2nd Sukkur Infantry"
+		type=infantry
+		home=1289
+	}
+}
+
+army = {
+	name="52nd Army"
+	location=1757
+	regiment = {
+		name="3rd Sukkur Infantry"
+		type=infantry
+		home=1289
+	}
+	regiment = {
+		name="1st Panipat Infantry"
+		type=infantry
+		home=1237
+	}
+	regiment = {
+		name="4th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="2nd Hoshangabad Infantry"
+		type=infantry
+		home=1276
+	}
+	regiment = {
+		name="1st Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="1st Poona Artillery"
+		type=artillery
+		home=1299
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2772
+	ship = {
+		name="5th Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dodecanese Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dodecanese Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Famagusta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Antalya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gaza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Suez Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1284
+	regiment = {
+		name="2nd Multan Infantry"
+		type=infantry
+		home=1228
+	}
+	regiment = {
+		name="5th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="1st Kalat Infantry"
+		type=infantry
+		home=1221
+	}
+	regiment = {
+		name="3rd Bikaner Infantry"
+		type=infantry
+		home=1267
+	}
+	regiment = {
+		name="2nd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Mandvi Artillery"
+		type=artillery
+		home=1293
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1301
+	regiment = {
+		name="3rd Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1283
+	regiment = {
+		name="6th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="2nd Mandvi Infantry"
+		type=infantry
+		home=1293
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1275
+	regiment = {
+		name="2nd Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="4th Udaipur Infantry"
+		type=infantry
+		home=1269
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1300
+	regiment = {
+		name="3rd Multan Infantry"
+		type=infantry
+		home=1228
+	}
+	regiment = {
+		name="1st Dalbandin Infantry"
+		type=infantry
+		home=1220
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1300
+	regiment = {
+		name="7th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="8th Jodhpur Infantry"
+		type=infantry
+		home=1266
+	}
+	regiment = {
+		name="2nd Jaisalmer Infantry"
+		type=infantry
+		home=1265
+	}
+	regiment = {
+		name="3rd Karachi Infantry"
+		type=infantry
+		home=1288
+	}
+	regiment = {
+		name="1st Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+	regiment = {
+		name="1st Kirklareli Artillery"
+		type=artillery
+		home=858
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1232
+	regiment = {
+		name="3rd Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="1st Poona Infantry"
+		type=infantry
+		home=1299
+	}
+	regiment = {
+		name="2nd Poona Infantry"
+		type=infantry
+		home=1299
+	}
+	regiment = {
+		name="3rd Umerkot Infantry"
+		type=infantry
+		home=1290
+	}
+	regiment = {
+		name="1st Umerkot Artillery"
+		type=artillery
+		home=1290
+	}
+	regiment = {
+		name="1st Bahawalpur Infantry"
+		type=infantry
+		home=1231
+	}
+	regiment = {
+		name="1st Sukkur Artillery"
+		type=artillery
+		home=1289
+	}
+}
+
+army = {
+	name="7th Army"
+	location=897
+	regiment = {
+		name="4th Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="5th Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="3rd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="4th Umerkot Infantry"
+		type=infantry
+		home=1290
+	}
+	regiment = {
+		name="1st Kutaisi Artillery"
+		type=artillery
+		home=1092
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1275
+	regiment = {
+		name="6th Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+	regiment = {
+		name="7th Rajkot Infantry"
+		type=infantry
+		home=1292
+	}
+}
+

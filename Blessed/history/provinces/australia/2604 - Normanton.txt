@@ -1,0 +1,7 @@
+owner=X30
+controller=X30
+add_core=AUY
+add_core=X30
+trade_goods = tropical_wood
+life_rating = 31
+terrain = savanna

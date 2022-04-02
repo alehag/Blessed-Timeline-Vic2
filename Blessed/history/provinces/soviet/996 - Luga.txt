@@ -1,0 +1,8 @@
+owner=KIE
+controller=KIE
+add_core=FIN
+add_core=SCA
+add_core=X04
+trade_goods = grain
+life_rating = 35
+naval_base = 1

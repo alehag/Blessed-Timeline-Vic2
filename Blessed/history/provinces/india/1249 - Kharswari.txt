@@ -1,0 +1,6 @@
+owner=X14
+controller=SRI
+add_core=HND
+add_core=X14
+trade_goods = coal
+life_rating = 28

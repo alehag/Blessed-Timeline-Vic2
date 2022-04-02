@@ -1,0 +1,149 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7079
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1353
+	}
+
+	soldiers=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 1309
+	}
+
+	artisans=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 56
+	}
+
+	officers=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = zuidelijk
+		religion = catholic
+		size= 20292
+	}
+
+}

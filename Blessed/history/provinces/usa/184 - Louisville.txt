@@ -1,0 +1,10 @@
+owner=ICL
+controller=ICL
+trade_goods = tobacco
+life_rating = 35
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

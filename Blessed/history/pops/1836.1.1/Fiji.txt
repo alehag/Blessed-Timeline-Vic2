@@ -1,0 +1,298 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1590
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 437
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 53417
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 1607
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 112
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 675
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 6706
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 13
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 3767
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1590
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 437
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 53417
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 1607
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 112
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 675
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = norse_pagan_reformed
+		size= 6706
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 13
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = cathar
+		size= 3767
+	}
+
+}

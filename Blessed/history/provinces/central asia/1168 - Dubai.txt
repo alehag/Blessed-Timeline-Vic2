@@ -1,0 +1,10 @@
+owner=PNT
+controller=PNT
+add_core=ARA
+add_core=DAW
+add_core=OMA
+trade_goods = fruit
+life_rating = 31
+terrain = semidesert
+colonial=2
+naval_base = 1

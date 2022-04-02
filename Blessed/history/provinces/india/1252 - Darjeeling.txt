@@ -1,0 +1,9 @@
+owner=X14
+controller=ASM
+add_core=ASM
+add_core=BNG
+add_core=HND
+add_core=KCX
+add_core=X14
+trade_goods = wool
+life_rating = 32

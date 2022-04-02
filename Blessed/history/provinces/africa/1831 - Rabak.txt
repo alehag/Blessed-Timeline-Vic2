@@ -1,0 +1,6 @@
+owner=AJU
+controller=AJU
+add_core=X23
+trade_goods = grain
+life_rating = 34
+colonial=2

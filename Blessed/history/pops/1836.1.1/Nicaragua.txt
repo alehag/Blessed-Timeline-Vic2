@@ -1,0 +1,470 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5702
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2471
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1949
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 634
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 136
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 410
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 38428
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5702
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 2471
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1949
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 634
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 136
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 410
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 38428
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 299
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 524
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 14065
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1766
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 13935
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 1294
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 279
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 836
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 70059
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8908
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2610
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 33422
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1462
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 21
+	}
+
+	slaves=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 2014
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 590
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 1656
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = norse_pagan_reformed
+		size= 5866
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 41020
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 12019
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 34930
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 3244
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 698
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 524
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 4192
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = norse_pagan_reformed
+		size= 118106
+	}
+
+}

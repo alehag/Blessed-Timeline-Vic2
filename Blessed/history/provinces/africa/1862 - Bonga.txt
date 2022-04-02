@@ -1,0 +1,6 @@
+owner=AJU
+controller=AJU
+add_core=AJU
+add_core=KAF
+trade_goods = coffee
+life_rating = 35

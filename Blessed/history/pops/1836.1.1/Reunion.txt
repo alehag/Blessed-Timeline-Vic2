@@ -1,0 +1,170 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 15400
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 1510
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 270
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 13
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 9642
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 1023
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 305
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 218
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 19295
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 1891
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 1925
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 313
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 404
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 9741
+	}
+
+}

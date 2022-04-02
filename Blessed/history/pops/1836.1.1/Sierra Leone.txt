@@ -1,0 +1,363 @@
+1884 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 460
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 7576
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = cathar
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = cathar
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = cathar
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = cathar
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = cathar
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = cathar
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = cathar
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = cathar
+		size= 246
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 1464
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 531
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 1238
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 402
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 62
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 22418
+	}
+
+}
+1885 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 925
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1900
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 36600
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 1650
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 37025
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 2300
+	}
+
+	slaves=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 13000
+	}
+
+}
+1886 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1875
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 36650
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 37675
+	}
+
+	slaves=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 7000
+	}
+
+}

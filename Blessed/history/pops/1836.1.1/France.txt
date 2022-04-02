@@ -1,0 +1,5624 @@
+399 = {
+	soldiers=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 11251
+	}
+
+	craftsmen=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 17122
+	}
+
+	clergymen=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 795
+	}
+
+	clerks=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 122
+	}
+
+	officers=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 355
+	}
+
+	capitalists=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 1541
+	}
+
+	farmers=
+	{
+		culture = wallonian
+		religion = catholic
+		size= 82406
+	}
+
+}
+400 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 3546
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 958
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 42868
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 5303
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 3825
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 622
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 239
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1205
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 60375
+	}
+
+}
+401 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 5938
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 4518
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 71
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 53309
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 8563
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 17549
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 815
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 276
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 364
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 1579
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 63934
+	}
+
+}
+402 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 2827
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 47181
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 3789
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 3899
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 634
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 175
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 204
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 2456
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 56495
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 741
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 467
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2528
+	}
+
+}
+403 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1136
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1420
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 17300
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1604
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5429
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 504
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 54
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 977
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 19990
+	}
+
+}
+404 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 11251
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 17122
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 795
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 122
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 355
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 1541
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 91111
+	}
+
+}
+405 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1691
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 3115
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 39149
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 2337
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 11724
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1089
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 117
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 703
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 45378
+	}
+
+}
+406 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6392
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 15980
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1484
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 160
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 240
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1119
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 88769
+	}
+
+}
+407 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 1557
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 1434
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 14
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 37737
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 496
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 2347
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 23
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 9788
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1045
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7633
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 709
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 76
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 458
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 17497
+	}
+
+}
+408 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1136
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1420
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 17300
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1604
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5429
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 504
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 54
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 977
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 19990
+	}
+
+}
+409 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 4133
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 7700
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 4412
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 179
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = cathar
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 47
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 3
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = cathar
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 243
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 58749
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 77
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 413
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 872
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 35
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2487
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 11
+	}
+
+	craftsmen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5357
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 217
+	}
+
+	clerks=
+	{
+		culture = occitan
+		religion = cathar
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 57
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3
+	}
+
+	capitalists=
+	{
+		culture = occitan
+		religion = cathar
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 295
+	}
+
+}
+410 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1125
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 3558
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 37
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 54601
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 786
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 2322
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4870
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 415
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 50
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 302
+	}
+
+}
+411 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1004
+	}
+
+	craftsmen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 7482
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 3708
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 311
+	}
+
+	clerks=
+	{
+		culture = north_german
+		religion = cathar
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 38
+	}
+
+	capitalists=
+	{
+		culture = north_german
+		religion = cathar
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 40885
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 93
+	}
+
+	craftsmen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 688
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4389
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 367
+	}
+
+	clerks=
+	{
+		culture = occitan
+		religion = cathar
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 45
+	}
+
+	capitalists=
+	{
+		culture = occitan
+		religion = cathar
+		size= 205
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 400
+	}
+
+}
+412 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 8727
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 21618
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1949
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 158
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 331
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 1765
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 121579
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 850
+	}
+
+}
+413 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 501
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 9
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 24054
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 416
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 666
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 23
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 19140
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 338
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 36
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 510
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1061
+	}
+
+}
+414 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 2242
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = cathar
+		size= 7848
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = cathar
+		size= 729
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 101
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = cathar
+		size= 706
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = cathar
+		size= 100417
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8132
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 755
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 105
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 732
+	}
+
+}
+415 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 1883
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 673
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 30687
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 2302
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 2317
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 104
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 730
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 35157
+	}
+
+}
+416 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 1883
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 673
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 30687
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 2302
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 2317
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 104
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 730
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 35157
+	}
+
+}
+417 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 5467
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 2674
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 30
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 50599
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 7035
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 9556
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 690
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 106
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 308
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 1338
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 57429
+	}
+
+}
+418 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 9583
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 17376
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 807
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 123
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 359
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 1564
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 74359
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 3418
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 2410
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 17
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 30928
+	}
+
+}
+420 = {
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size= 8447
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size= 15980
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size= 1484
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 160
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size= 285
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 1438
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size= 86350
+	}
+
+}
+421 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7153
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 17882
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1661
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 281
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 268
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1073
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 99414
+	}
+
+}
+422 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10751
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 16361
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1519
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 164
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 339
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1472
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 86255
+	}
+
+}
+423 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2065
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 14458
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1343
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 145
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1301
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 83827
+	}
+
+}
+424 = {
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size= 14458
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size= 1343
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 145
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 1301
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size= 81759
+	}
+
+}
+425 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 32371
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 79803
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7096
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1519
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1127
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4408
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 449534
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 500
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 5000
+	}
+
+}
+426 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2283
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 15980
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1484
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 251
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 959
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 93039
+	}
+
+}
+427 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 5327
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 13317
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1237
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 133
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 74107
+	}
+
+}
+428 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 3511
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 3696
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1201
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 203
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 2329
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 81305
+	}
+
+}
+429 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 7240
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 13697
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1272
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 137
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 1644
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 73602
+	}
+
+}
+430 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3098
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 11414
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1060
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 147
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1370
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 64303
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 12556
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1166
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 161
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 1507
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 51410
+	}
+
+}
+431 = {
+	soldiers=
+	{
+		culture = french
+		religion = cathar
+		size= 5175
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = cathar
+		size= 12936
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = cathar
+		size= 1201
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = cathar
+		size= 129
+	}
+
+	officers=
+	{
+		culture = french
+		religion = cathar
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = cathar
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = cathar
+		size= 71861
+	}
+
+}
+432 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2788
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10273
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 954
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 103
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 616
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 58519
+	}
+
+}
+433 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 14078
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1307
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 141
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 845
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 79880
+	}
+
+}
+434 = {
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size= 793
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size= 2775
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 28
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size= 35596
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10161
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 944
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 102
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 610
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 30515
+	}
+
+}
+435 = {
+	soldiers=
+	{
+		culture = breton
+		religion = catholic
+		size= 472
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = catholic
+		size= 1651
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = catholic
+		size= 21177
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size= 6719
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size= 624
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 106
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size= 24149
+	}
+
+}
+436 = {
+	soldiers=
+	{
+		culture = breton
+		religion = catholic
+		size= 472
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = catholic
+		size= 1651
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = catholic
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = catholic
+		size= 21177
+	}
+
+	soldiers=
+	{
+		culture = breton
+		religion = cathar
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = breton
+		religion = cathar
+		size= 6719
+	}
+
+	clergymen=
+	{
+		culture = breton
+		religion = cathar
+		size= 624
+	}
+
+	bureaucrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 106
+	}
+
+	officers=
+	{
+		culture = breton
+		religion = cathar
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = breton
+		religion = cathar
+		size= 403
+	}
+
+	farmers=
+	{
+		culture = breton
+		religion = cathar
+		size= 27249
+	}
+
+}
+437 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 603
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 2112
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 27039
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8161
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 758
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 58
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 734
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 32383
+	}
+
+}
+438 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5175
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3696
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1201
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 166
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1164
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 80806
+	}
+
+}
+439 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1989
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1514
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 17842
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6096
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 61
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 21383
+	}
+
+}
+440 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4566
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 11414
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1060
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 114
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 685
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 63521
+	}
+
+}
+441 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12936
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1201
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 203
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 776
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 63733
+	}
+
+}
+442 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10333
+	}
+
+	craftsmen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 13317
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1237
+	}
+
+	clerks=
+	{
+		culture = occitan
+		religion = cathar
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 133
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 238
+	}
+
+	capitalists=
+	{
+		culture = occitan
+		religion = cathar
+		size= 378
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 60022
+	}
+
+}
+443 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 2440
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 3050
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 37528
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12169
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1130
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 191
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 730
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 40394
+	}
+
+}
+444 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5870
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1908
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 264
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 308
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1233
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126840
+	}
+
+}
+445 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4870
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12175
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1131
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 122
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 731
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 67754
+	}
+
+}
+446 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1989
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size= 1514
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size= 17842
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3011
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6096
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 566
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 61
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 22505
+	}
+
+}
+447 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 5022
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12556
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1166
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 188
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 753
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 69873
+	}
+
+}
+448 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2968
+	}
+
+	craftsmen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7419
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 689
+	}
+
+	clerks=
+	{
+		culture = occitan
+		religion = cathar
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 95
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 111
+	}
+
+	capitalists=
+	{
+		culture = occitan
+		religion = cathar
+		size= 378
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 32227
+	}
+
+}
+449 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2968
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7419
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 689
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 95
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 41268
+	}
+
+}
+450 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 652
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4566
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 424
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 33
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 26347
+	}
+
+}
+451 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 29058
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2791
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 301
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2605
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 162232
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2800
+	}
+
+}
+452 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10273
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 954
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 73
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 616
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 57175
+	}
+
+}
+453 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8370
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 777
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 60
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 502
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 42721
+	}
+
+}
+454 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2500
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 813
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 113
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 525
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 54317
+	}
+
+}
+455 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3805
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2718
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 883
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 95
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 571
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 59727
+	}
+
+}
+456 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 652
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4566
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 424
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 33
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 26347
+	}
+
+}
+457 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10273
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 954
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 74
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 616
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 51033
+	}
+
+}
+458 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12556
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1166
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 126
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1130
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 70456
+	}
+
+}
+459 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 10653
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 990
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 137
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 639
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 59445
+	}
+
+}
+460 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8523
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 21307
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1979
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 153
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 319
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1278
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 118634
+	}
+
+}
+461 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1957
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 13697
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1272
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 137
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1233
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 79414
+	}
+
+}
+462 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1957
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 636
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 49
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 41629
+	}
+
+}
+463 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 14752
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 22449
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2085
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 224
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 465
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1347
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 119023
+	}
+
+}
+464 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 719
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = cathar
+		size= 5034
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = cathar
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = cathar
+		size= 18
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = cathar
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = cathar
+		size= 64963
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 341
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 9804
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 455
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 35
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1765
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 21578
+	}
+
+}
+465 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 924
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6468
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 601
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 46
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 37714
+	}
+
+}
+466 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 924
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6468
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 601
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 46
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 37714
+	}
+
+}
+467 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 89511
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 136212
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 12648
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1751
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 2822
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 24518
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 705480
+	}
+
+}
+468 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 6088
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 15219
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1413
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 239
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 228
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 913
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 84608
+	}
+
+}
+469 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 761
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1522
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 495
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 53
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 34848
+	}
+
+}
+470 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1413
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 9892
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 919
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 127
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 594
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 57623
+	}
+
+}
+471 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 761
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1522
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 495
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 53
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 34848
+	}
+
+}
+472 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1576
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3153
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1025
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 110
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 662
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 72185
+	}
+
+}
+473 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 894
+	}
+
+	craftsmen=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 6719
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 894
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 291
+	}
+
+	clerks=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 22
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 29
+	}
+
+	capitalists=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = cathar
+		size= 35311
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1280
+	}
+
+	craftsmen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 9621
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3454
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1123
+	}
+
+	clerks=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 783
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 86
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 112
+	}
+
+	capitalists=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 219
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1088
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 46240
+	}
+
+}
+2570 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 8648
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 4674
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1519
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 164
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 292
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 982
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 100582
+	}
+
+}

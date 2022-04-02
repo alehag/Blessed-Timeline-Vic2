@@ -1,0 +1,1131 @@
+#Sphere of Influence
+
+ADU = {
+	value = -2
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARL = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 3
+	level = 2
+}
+BRU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+CHU = {
+	value = -8
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -68
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -178
+	level = 2
+}
+FRA = {
+	value = -23
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 4
+	level = 2
+}
+ITA = {
+	value = -36
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 207
+	influence_value = 39
+	level = 4
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -29
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = -19
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 44
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -6
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 49
+	level = 2
+}
+TID = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -1
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -8
+	level = 2
+}
+X27 = {
+	value = 42
+	level = 2
+}
+X28 = {
+	value = 44
+	level = 2
+}
+X30 = {
+	value = 124
+	military_access = yes
+	influence_value = 68
+	level = 5
+}
+
+#Leaders
+leader = {
+	name="Friedrich Albrecht I von Van Volkvan"
+	date="1805.4.26"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Philipp von Hohenlohe"
+	date="1794.7.2"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Rudolf von Stille"
+	date="1797.8.17"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Ludwig Karl von Manstein"
+	date="1815.6.15"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Rupprecht Riwotzki"
+	date="1816.5.1"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=539
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Hessen"
+		type=manowar
+	}
+	ship = {
+		name="Kurfürst Friedrich Wilhelm"
+		type=manowar
+	}
+	ship = {
+		name="Mecklenburg"
+		type=manowar
+	}
+	ship = {
+		name="Pommern"
+		type=manowar
+	}
+	ship = {
+		name="Preussen"
+		type=manowar
+	}
+	ship = {
+		name="Schlesien"
+		type=manowar
+	}
+	ship = {
+		name="2nd Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oldenburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aalborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Aalborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Flensburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Köslin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Flensburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Flensburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oldenburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kiel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aarhus Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Aalborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Heligoland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Ribe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bremen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Aabenraa Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Frisian Free Company"
+	location=680
+	regiment = {
+		name="1st Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="2nd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="3rd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="4th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="5th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="6th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="13th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+}
+
+army = {
+	name="Free Company"
+	location=547
+	regiment = {
+		name="7th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="8th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="9th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="10th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="11th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="12th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="14th Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=544
+	regiment = {
+		name="1st Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="2nd Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="3rd Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="4th Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="5th Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="6th Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="7th Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=547
+	regiment = {
+		name="1st Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="2nd Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="2nd Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="3rd Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="4th Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="5th Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+}
+
+army = {
+	name="Finnish Company"
+	location=544
+	regiment = {
+		name="1st Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="2nd Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="3rd Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="4th Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="5th Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="6th Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+	regiment = {
+		name="7th Hamburg Infantry"
+		type=infantry
+		home=528
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2710
+	ship = {
+		name="Carolus Secundus"
+		type=frigate
+	}
+	ship = {
+		name="Chur Prinz"
+		type=frigate
+	}
+	ship = {
+		name="Eber"
+		type=frigate
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2721
+	ship = {
+		name="Dorothea"
+		type=frigate
+	}
+	ship = {
+		name="Friedrich Wilhelm zu Pferde"
+		type=frigate
+	}
+	ship = {
+		name="Goldener Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Kurprinz von Brandenburg"
+		type=frigate
+	}
+	ship = {
+		name="Morian"
+		type=frigate
+	}
+	ship = {
+		name="Fuchs"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2710
+	ship = {
+		name="Rother Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Wappen von Brandenburg"
+		type=frigate
+	}
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+	ship = {
+		name="Habicht"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2899
+	ship = {
+		name="Albatross"
+		type=frigate
+	}
+	ship = {
+		name="Basilisk"
+		type=frigate
+	}
+	ship = {
+		name="Bismarck"
+		type=frigate
+	}
+	ship = {
+		name="Blitz"
+		type=frigate
+	}
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neckar"
+		type=clipper_transport
+	}
+	ship = {
+		name="New York"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nord-Amerika"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pamir"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pangani"
+		type=clipper_transport
+	}
+	ship = {
+		name="Passat"
+		type=clipper_transport
+	}
+	ship = {
+		name="Peking"
+		type=clipper_transport
+	}
+	ship = {
+		name="Petschili"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gneisenau"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Ost See Squadron"
+	location=2711
+	ship = {
+		name="Blücher"
+		type=frigate
+	}
+	ship = {
+		name="Comet"
+		type=frigate
+	}
+	ship = {
+		name="Cyclop"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="Drache"
+		type=frigate
+	}
+	ship = {
+		name="Gazelle"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=680
+	regiment = {
+		name="1st Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="2nd Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="3rd Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="1st Schwerin Artillery"
+		type=artillery
+		home=544
+	}
+	regiment = {
+		name="4th Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="1st Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=679
+	ship = {
+		name="Pisagua"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pitlochry"
+		type=clipper_transport
+	}
+	ship = {
+		name="Placilla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pola"
+		type=clipper_transport
+	}
+	ship = {
+		name="Potosi"
+		type=clipper_transport
+	}
+	ship = {
+		name="Priwall"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rhein"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aabenraa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kiel Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,16 @@
+name = "Gondwana's Crusade against Bihar"
+
+1819.6.12 = {
+	add_attacker = GDW
+	add_attacker = BNG
+	add_attacker = SRI
+	add_defender = X14
+	add_defender = AVA
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = GDW
+		receiver = X14
+		state_province_id = 1242
+	}
+}

@@ -1,0 +1,11 @@
+owner=ICL
+controller=ICL
+trade_goods = coal
+life_rating = 35
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+owner=PNT
+controller=ITA
+add_core=IRQ
+add_core=SYR
+trade_goods = grain
+life_rating = 10
+fort = 1

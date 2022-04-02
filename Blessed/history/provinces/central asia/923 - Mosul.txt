@@ -1,0 +1,13 @@
+owner=PNT
+controller=PNT
+add_core=GRE
+add_core=PNT
+trade_goods = sulphur
+life_rating = 35
+terrain = dryhills
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

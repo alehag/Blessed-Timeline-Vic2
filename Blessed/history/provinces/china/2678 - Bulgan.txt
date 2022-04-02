@@ -1,0 +1,10 @@
+owner=X17
+controller=X17
+add_core=BRY
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=X17
+trade_goods = timber
+life_rating = 32
+fort = 1

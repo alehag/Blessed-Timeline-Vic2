@@ -1,0 +1,100 @@
+2244 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 1522
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = cathar
+		size= 3805
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = cathar
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 55
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = cathar
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = cathar
+		size= 21157
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1674
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 4185
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 23274
+	}
+
+}

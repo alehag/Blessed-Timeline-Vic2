@@ -1,0 +1,726 @@
+#Sphere of Influence
+
+ADU = {
+	value = 105
+	influence_value = 13
+	level = 4
+}
+AJU = {
+	value = -13
+	level = 2
+}
+ALH = {
+	value = 28
+	level = 2
+}
+ARL = {
+	value = 8
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 165
+	influence_value = 28
+	level = 4
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -6
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = -6
+	level = 2
+}
+EGY = {
+	value = 5
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 27
+	level = 2
+}
+GDW = {
+	value = 8
+	level = 2
+}
+GRE = {
+	value = -4
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = -7
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -9
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 170
+	influence_value = 30
+	level = 4
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = -67
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 12
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 14
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 5
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alaeddin Shahy"
+	date="1798.6.11"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Merzuban Daei"
+	date="1803.10.10"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Sökmen Jalili"
+	date="1812.9.9"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Alaeddin Sabet"
+	date="1813.4.25"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="Grand Company"
+	location=1206
+	regiment = {
+		name="1st Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="2nd Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="4th Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="5th Merv Irregulars"
+		type=irregular
+		home=686
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=1107
+	regiment = {
+		name="1st Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="2nd Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="3rd Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="4th Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="5th Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="6th Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+	regiment = {
+		name="7th Amul Irregulars"
+		type=irregular
+		home=1206
+	}
+}
+
+army = {
+	name="Free Company"
+	location=686
+	regiment = {
+		name="1st Qom Irregulars"
+		type=irregular
+		home=1125
+	}
+	regiment = {
+		name="1st Arak Irregulars"
+		type=irregular
+		home=1128
+	}
+	regiment = {
+		name="2nd Qom Irregulars"
+		type=irregular
+		home=1125
+	}
+	regiment = {
+		name="2nd Arak Irregulars"
+		type=irregular
+		home=1128
+	}
+	regiment = {
+		name="3rd Qom Irregulars"
+		type=irregular
+		home=1125
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1214
+	regiment = {
+		name="1st Jask Artillery"
+		type=artillery
+		home=1145
+	}
+	regiment = {
+		name="4th Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1147
+	regiment = {
+		name="3rd Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="1st Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+	regiment = {
+		name="1st Gorgan Irregulars"
+		type=irregular
+		home=1116
+	}
+	regiment = {
+		name="5th Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+}
+
+army = {
+	name="40th Army"
+	location=1147
+	regiment = {
+		name="1st Kermanshah Artillery"
+		type=artillery
+		home=1117
+	}
+	regiment = {
+		name="1st Kunduz Artillery"
+		type=artillery
+		home=1210
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1146
+	ship = {
+		name="Ferhumand"
+		type=manowar
+	}
+	ship = {
+		name="Jelaleddin"
+		type=manowar
+	}
+	ship = {
+		name="Nureddin"
+		type=manowar
+	}
+	ship = {
+		name="Danesh"
+		type=manowar
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1206
+	regiment = {
+		name="2nd Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+	regiment = {
+		name="1st Semnan Artillery"
+		type=artillery
+		home=1126
+	}
+}
+
+army = {
+	name="7th Army"
+	location=686
+	regiment = {
+		name="1st Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="1st Sheki Artillery"
+		type=artillery
+		home=1104
+	}
+}
+
+army = {
+	name="48th Army"
+	location=1102
+	regiment = {
+		name="2nd Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="1st Chabahar Artillery"
+		type=artillery
+		home=1146
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2787
+	ship = {
+		name="Karun"
+		type=frigate
+	}
+	ship = {
+		name="Zab"
+		type=frigate
+	}
+	ship = {
+		name="Aras"
+		type=frigate
+	}
+	ship = {
+		name="Helmand"
+		type=frigate
+	}
+	ship = {
+		name="Diyala"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1116
+	regiment = {
+		name="1st Zaranj Artillery"
+		type=artillery
+		home=1214
+	}
+	regiment = {
+		name="1st Lengeh Artillery"
+		type=artillery
+		home=1141
+	}
+}
+
+army = {
+	name="30th Army"
+	location=1107
+	regiment = {
+		name="1st Yasuj Artillery"
+		type=artillery
+		home=1137
+	}
+	regiment = {
+		name="3rd Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+}
+

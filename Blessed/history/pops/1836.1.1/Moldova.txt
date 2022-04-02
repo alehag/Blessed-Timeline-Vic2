@@ -1,0 +1,284 @@
+676 = {
+	soldiers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 1590
+	}
+
+	artisans=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 712
+	}
+
+	clergymen=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 13
+	}
+
+	officers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 21363
+	}
+
+	soldiers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 573
+	}
+
+	artisans=
+	{
+		culture = szekely
+		religion = catholic
+		size= 1299
+	}
+
+	clergymen=
+	{
+		culture = szekely
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = szekely
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = szekely
+		religion = catholic
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 6227
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = catholic
+		size= 2098
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = catholic
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 350
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 1590
+	}
+
+	artisans=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 677
+	}
+
+	clergymen=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 13
+	}
+
+	officers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = szekely
+		religion = orthodox
+		size= 20750
+	}
+
+	soldiers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 573
+	}
+
+	artisans=
+	{
+		culture = szekely
+		religion = catholic
+		size= 1236
+	}
+
+	clergymen=
+	{
+		culture = szekely
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = szekely
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = szekely
+		religion = catholic
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = szekely
+		religion = catholic
+		size= 6049
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = catholic
+		size= 1995
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = catholic
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = catholic
+		size= 350
+	}
+
+}

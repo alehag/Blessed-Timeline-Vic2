@@ -1,0 +1,8 @@
+owner=TDO
+controller=MNA
+add_core=MNA
+add_core=TDO
+trade_goods = tobacco
+life_rating = 35
+naval_base = 1
+fort = 1

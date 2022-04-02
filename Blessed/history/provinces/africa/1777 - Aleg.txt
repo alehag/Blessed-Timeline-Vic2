@@ -1,0 +1,6 @@
+owner=WOL
+controller=WOL
+trade_goods = grain
+life_rating = 15
+terrain = semidesert
+fort = 1

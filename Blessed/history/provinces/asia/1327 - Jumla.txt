@@ -1,0 +1,7 @@
+owner=X14
+controller=X14
+add_core=ASM
+add_core=NEP
+add_core=TIB
+trade_goods = wool
+life_rating = 25

@@ -1,0 +1,10081 @@
+6 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+7 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1800
+	}
+
+}
+9 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3710
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1068
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 21146
+	}
+
+}
+11 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 150
+	}
+
+}
+13 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 984
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 15868
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4495
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13082
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1214
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 262
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 196
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 785
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 60222
+	}
+
+}
+14 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1073
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 10405
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2820
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1323
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 26
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 26256
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 1605
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 2702
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 162
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = norse_pagan_reformed
+		size= 12616
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4253
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 10655
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 989
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 213
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 221
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 639
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 29254
+	}
+
+}
+15 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1162
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 363
+	}
+
+	clergymen=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 19150
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 18284
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 58024
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5388
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1161
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 871
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3482
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 239358
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2456
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 940
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 40295
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3677
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2587
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 58913
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 52
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 39
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 446
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 3149
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 293
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 63
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 189
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = norse_pagan_reformed
+		size= 3777
+	}
+
+}
+16 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 990
+	}
+
+}
+17 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1000
+	}
+
+}
+18 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 547
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 29983
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1604
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 15053
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1398
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 300
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 903
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 60865
+	}
+
+}
+19 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 4344
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2294
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 46
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 70511
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12472
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 39750
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3690
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 796
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 597
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2385
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 163139
+	}
+
+}
+20 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1135
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 710
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 18279
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 13
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4192
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12608
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1170
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 253
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 757
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 55697
+	}
+
+}
+21 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1302
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 731
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 21093
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3714
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11738
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1090
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 235
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 704
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 48652
+	}
+
+}
+22 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1722
+	}
+
+	craftsmen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5137
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 814
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 75
+	}
+
+	clerks=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 16
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 12
+	}
+
+	capitalists=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 22608
+	}
+
+	craftsmen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11203
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12884
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1196
+	}
+
+	clerks=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 928
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 257
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 194
+	}
+
+	capitalists=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 843
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 774
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3756
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 35889
+	}
+
+}
+23 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1709
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1068
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 21
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 27542
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3617
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12248
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1137
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 245
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 735
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 47208
+	}
+
+}
+24 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1081
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 16700
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 837
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 1132
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1606
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5526
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 513
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 332
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 19653
+	}
+
+}
+25 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1081
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 17419
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 837
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 1180
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1606
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5526
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 513
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 111
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 332
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 20499
+	}
+
+}
+26 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1662
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1265
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14700
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3713
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6915
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 642
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 138
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 415
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 28014
+	}
+
+}
+27 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1662
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1265
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14836
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3713
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6915
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 642
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 138
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 28273
+	}
+
+}
+28 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1708
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 28534
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4380
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4196
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1364
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 294
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 880
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 66879
+	}
+
+}
+30 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3055
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2047
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 42
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 48893
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 898
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 2991
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 11524
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7489
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 29074
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2700
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 581
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 435
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1740
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 92636
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2808
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 45166
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 935
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1652
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = totemism
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 32
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 24
+	}
+
+}
+31 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+32 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1860
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 2155
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 44
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 28659
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7787
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 24353
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2245
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 488
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 366
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1463
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 101874
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2049
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2560
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 51
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 31354
+	}
+
+}
+33 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1829
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2286
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 46
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 27739
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3650
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11412
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1060
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 228
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 685
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 47349
+	}
+
+}
+34 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 3687
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 2197
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 58805
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 44
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 686
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 3176
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 64
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 7695
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1388
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 8964
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 832
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 179
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 538
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12589
+	}
+
+}
+35 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 3645
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2773
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 56
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 32419
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7106
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13587
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1262
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 272
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 281
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 53510
+	}
+
+}
+36 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 857
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13617
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 367
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2924
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9237
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 858
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 185
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 554
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 36899
+	}
+
+}
+37 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 6006
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1552
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3465
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1127
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 243
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 728
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 70355
+	}
+
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 5656
+	}
+
+}
+38 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 10925
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1076
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2495
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 811
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 175
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 524
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 48645
+	}
+
+}
+39 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 345
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 304
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16476
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1272
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11062
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1008
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 221
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 666
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 49024
+	}
+
+}
+40 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 12692
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 692
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 1508
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 31724
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 30
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 255
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 2566
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = norse_pagan_reformed
+		size= 9336
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11359
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1055
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 227
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 682
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 35989
+	}
+
+}
+41 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1328
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 734
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 21340
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 904
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 14503
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7201
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 24692
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2292
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 635
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 371
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2963
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 89880
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1779
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 28259
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = totemism
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = totemism
+		size= 32
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 658
+	}
+
+	artisans=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 2478
+	}
+
+	clergymen=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 64
+	}
+
+	officers=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = norse_pagan_reformed
+		size= 7934
+	}
+
+}
+42 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 857
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13879
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2924
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9237
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 858
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 185
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 37610
+	}
+
+}
+46 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 2854
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1784
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 36
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 45885
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 312
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 2173
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 2542
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2313
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9740
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 904
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 195
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1169
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 26839
+	}
+
+}
+47 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 14478
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1873
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4199
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1365
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 294
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 882
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 84937
+	}
+
+}
+48 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 4719
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 2781
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 69
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 76223
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 178
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 12687
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 39948
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3709
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1028
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 600
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2397
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 166177
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 1299
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 3892
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 101
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = norse_pagan_reformed
+		size= 17257
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 70
+	}
+
+}
+49 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 30680
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = totemism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 39
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 2055
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 9726
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 653
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7803
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 725
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 156
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 465
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 22423
+	}
+
+}
+50 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5402
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1825
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 46
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 51148
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 3421
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = totemism
+		size= 1533
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = totemism
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = totemism
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 31926
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 1377
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 2812
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 72
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = norse_pagan_reformed
+		size= 10218
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9008
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 22834
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2121
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 587
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 473
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1370
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 61517
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 1794
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 2957
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 275
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 14156
+	}
+
+}
+51 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1169
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 365
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 19265
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 8665
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 26326
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2444
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 527
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 395
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1580
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 114785
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1124
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 703
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 18165
+	}
+
+}
+52 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 8073
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3072
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 62
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 76012
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 792
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 3673
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 3429
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9246
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 25299
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2349
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 506
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 524
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1518
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 61059
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5285
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1906
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 49887
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 37
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 602
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 2471
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 49
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 2994
+	}
+
+}
+53 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 4508
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 34
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 43667
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 592
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 3654
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 8689
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5802
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1886
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 406
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 420
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1219
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 76028
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3919
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 37950
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 29
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 417
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 3246
+	}
+
+}
+54 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1398
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 874
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 22533
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 201
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1125
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 2050
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1216
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5040
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 101
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 14520
+	}
+
+}
+55 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1398
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 874
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 22533
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 201
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1125
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 2050
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1216
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5040
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 101
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 14520
+	}
+
+}
+56 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3560
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 2109
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 42
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 57386
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1814
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 36
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 164
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7375
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 23717
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2202
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 475
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 355
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2846
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 94724
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2
+	}
+
+}
+57 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3135
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1889
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 50789
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 881
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 112
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 37
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13217
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 39079
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3628
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 782
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 587
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2344
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 176370
+	}
+
+}
+58 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1898
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 31097
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 385
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 725
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5625
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 353
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 387
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 10296
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 31007
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2879
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 797
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 465
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2790
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 135610
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1227
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 2163
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 56
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 18037
+	}
+
+}
+59 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 410
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12195
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 198
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1715
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13539
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1257
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 272
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1218
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 67677
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 457
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 3615
+	}
+
+}
+61 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 260
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 410
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12195
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 198
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1715
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13539
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1257
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 272
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1218
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 67677
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 457
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 3615
+	}
+
+}
+62 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 461
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 187
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 22267
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3018
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6771
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2200
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 474
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1420
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 136793
+	}
+
+}
+63 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6014
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 98043
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 842
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2865
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 264
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 72
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 44
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1079
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1952
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 15797
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 27325
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 81266
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7546
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2089
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1220
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7313
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 361411
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1005
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14
+	}
+
+}
+64 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 921
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15263
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 317
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4686
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13782
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1279
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 275
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 207
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 826
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 62700
+	}
+
+}
+65 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9999
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1695
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3702
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1203
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 333
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1166
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 76553
+	}
+
+}
+66 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 585
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 144
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9700
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 467
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4953
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1413
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 844
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 20
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 22955
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1096
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 1848
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 48
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = norse_pagan_reformed
+		size= 16219
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11963
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 35697
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3315
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 918
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 536
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3213
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 157984
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 897
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 1710
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 44
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 13022
+	}
+
+}
+67 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1482
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 24635
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 209
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4197
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 207
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = norse_pagan_reformed
+		size= 2998
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 9612
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 27950
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2595
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 558
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 419
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1676
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 128862
+	}
+
+}
+68 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2660
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1366
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 43272
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 26
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13655
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 40171
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3730
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 803
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 603
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3615
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 181350
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1837
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 15181
+	}
+
+}
+69 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 663
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31719
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 874
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1711
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 13833
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3185
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 26706
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2480
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 533
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 248
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2403
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 123739
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 497
+	}
+
+}
+70 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 873
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 545
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14111
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4607
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13152
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1221
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 263
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 197
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 789
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 62036
+	}
+
+}
+71 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 545
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 13686
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = norse_pagan_reformed
+		size= 660
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 1815
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 47
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 15166
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 2314
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1286
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 11351
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1054
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 292
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 47241
+	}
+
+}
+72 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1107
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1631
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 52314
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 40
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5390
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 44729
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4154
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1150
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 416
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4025
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 209670
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 462
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 2341
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 60
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = norse_pagan_reformed
+		size= 19791
+	}
+
+}
+73 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 896
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14443
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 4735
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 13517
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1255
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 270
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 811
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 63760
+	}
+
+}
+74 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4714
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3139
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 8471
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 787
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 509
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 42867
+	}
+
+}
+75 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3661
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 35284
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 40093
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 65887
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 6118
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1695
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1365
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 5930
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 314963
+	}
+
+}
+76 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3710
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1068
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 21146
+	}
+
+}
+77 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4714
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3139
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 8471
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 787
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 170
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 509
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 42867
+	}
+
+}
+2592 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3831
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1048
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 21021
+	}
+
+}
+2593 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1204
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 752
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 15
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 19415
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7166
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 20175
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1874
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 404
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 302
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1211
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 96829
+	}
+
+}
+2594 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = totemism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 8536
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 691
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1650
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 115
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 346
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 31152
+	}
+
+}
+2595 = {
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 1135
+	}
+
+}
+2596 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 500
+	}
+
+}
+2597 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3305
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1551
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 31
+	}
+
+	officers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 53869
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7502
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 25462
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2366
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 510
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 382
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1528
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 98193
+	}
+
+}
+2598 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1260
+	}
+
+}
+2625 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 492
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 246
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 17
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 23750
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3203
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 7147
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 2322
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 501
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 233
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1501
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 145252
+	}
+
+}
+2626 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3831
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 1048
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 73
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 21021
+	}
+
+}
+2629 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 360
+	}
+
+}

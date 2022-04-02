@@ -1,0 +1,200 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = animist
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = animist
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 5806
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3986
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 10733
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 996
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 214
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 644
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 54431
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = animist
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = animist
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 5806
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 3986
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 10733
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 996
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 214
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 644
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = norse_pagan_reformed
+		size= 54431
+	}
+
+}

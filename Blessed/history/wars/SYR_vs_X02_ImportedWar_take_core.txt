@@ -1,0 +1,14 @@
+name = "Syrian Reconquest of Suwayda"
+
+1820.9.6 = {
+	add_attacker = SYR
+	add_defender = X02
+	add_defender = X00
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = SYR
+		receiver = X02
+		state_province_id = 906
+	}
+}

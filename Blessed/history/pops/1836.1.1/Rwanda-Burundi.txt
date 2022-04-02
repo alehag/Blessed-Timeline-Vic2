@@ -1,0 +1,193 @@
+2034 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 1739
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 12175
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 652
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 113
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 731
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 71486
+	}
+
+}
+2035 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 3957
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 9892
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 530
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 35
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 1187
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 54947
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 3903
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 8864
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 475
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 31
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 1063
+	}
+
+	farmers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 55272
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = catholic
+		size= 1028
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = rundi
+		religion = catholic
+		size= 123
+	}
+
+}

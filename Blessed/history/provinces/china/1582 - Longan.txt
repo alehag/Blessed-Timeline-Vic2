@@ -1,0 +1,7 @@
+owner=MDO
+controller=MDO
+add_core=MDO
+add_core=TIB
+add_core=X16
+trade_goods = cattle
+life_rating = 32

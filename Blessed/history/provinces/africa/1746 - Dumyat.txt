@@ -1,0 +1,8 @@
+owner=PNT
+controller=EGY
+add_core=EGY
+add_core=GRE
+add_core=MKA
+trade_goods = grain
+life_rating = 40
+naval_base = 2

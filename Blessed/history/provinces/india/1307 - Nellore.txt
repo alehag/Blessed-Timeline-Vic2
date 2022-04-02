@@ -1,0 +1,9 @@
+owner=SRI
+controller=SRI
+add_core=GOC
+add_core=HND
+add_core=MYS
+add_core=SRI
+trade_goods = grain
+life_rating = 32
+naval_base = 2

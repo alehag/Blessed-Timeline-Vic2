@@ -1,0 +1,5 @@
+owner=GRE
+controller=CRO
+add_core=GRE
+trade_goods = timber
+life_rating = 35

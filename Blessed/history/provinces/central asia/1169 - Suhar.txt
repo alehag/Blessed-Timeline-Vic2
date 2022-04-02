@@ -1,0 +1,8 @@
+owner=AJU
+controller=AJU
+add_core=ARA
+add_core=DAW
+add_core=OMA
+trade_goods = grain
+life_rating = 20
+colonial=2

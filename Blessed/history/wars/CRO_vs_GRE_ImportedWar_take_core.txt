@@ -1,0 +1,14 @@
+name = "Balkan Reconquest of Ragusa"
+
+1818.2.26 = {
+	add_attacker = CRO
+	add_attacker = AJU
+	add_defender = GRE
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = CRO
+		receiver = GRE
+		state_province_id = 782
+	}
+}

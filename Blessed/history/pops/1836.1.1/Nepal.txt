@@ -1,0 +1,396 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 22871
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 18752
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 28536
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 2650
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 387
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 489
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 1712
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 128431
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 16625
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 9277
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 7059
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 656
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 96
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 424
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 66582
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 17423
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 9723
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 27562
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 2559
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 375
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 472
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 1654
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 45916
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = sunni
+		size= 6203
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 3462
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = sunni
+		size= 2634
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = sunni
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 36
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 24842
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 9479
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 5290
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 10683
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 992
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 145
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 641
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 30082
+	}
+
+	slaves=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 12162
+	}
+
+	soldiers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 6787
+	}
+
+	artisans=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 2582
+	}
+
+	clergymen=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 35
+	}
+
+	officers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = panjabi
+		religion = sunni
+		size= 51762
+	}
+
+	slaves=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 1284
+	}
+
+	soldiers=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 716
+	}
+
+	artisans=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 3127
+	}
+
+	clergymen=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 290
+	}
+
+	bureaucrats=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 42
+	}
+
+	officers=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = panjabi
+		religion = mahayana
+		size= 2085
+	}
+
+}

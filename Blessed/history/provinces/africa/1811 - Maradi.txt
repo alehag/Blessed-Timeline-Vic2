@@ -1,0 +1,8 @@
+owner=JNN
+controller=JNN
+add_core=HAU
+add_core=JNN
+add_core=NUP
+trade_goods = wool
+life_rating = 32
+terrain = semidesert

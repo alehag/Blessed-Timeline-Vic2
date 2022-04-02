@@ -1,0 +1,7 @@
+owner=X14
+controller=BNG
+add_core=KCX
+add_core=NEP
+add_core=TRT
+trade_goods = opium
+life_rating = 32

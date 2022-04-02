@@ -1,0 +1,7 @@
+owner=X27
+controller=X27
+add_core=AUM
+add_core=X28
+trade_goods = cattle
+life_rating = 34
+naval_base = 1

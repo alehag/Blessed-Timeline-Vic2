@@ -1,0 +1,8 @@
+owner=RYU
+controller=RYU
+add_core=JAP
+add_core=RYU
+trade_goods = fish
+life_rating = 31
+terrain = small_island
+naval_base = 2

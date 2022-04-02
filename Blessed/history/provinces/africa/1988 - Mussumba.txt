@@ -1,0 +1,7 @@
+owner=KLD
+controller=KLD
+add_core=KLD
+add_core=KON
+add_core=LUN
+trade_goods = tropical_wood
+life_rating = 10

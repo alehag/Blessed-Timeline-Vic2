@@ -1,0 +1,5 @@
+owner=CHU
+controller=CHU
+add_core=CHU
+trade_goods = cattle
+life_rating = 15

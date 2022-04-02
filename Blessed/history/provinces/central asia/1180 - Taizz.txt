@@ -1,0 +1,9 @@
+owner=DAW
+controller=DAW
+add_core=ADE
+add_core=ARA
+add_core=DAW
+add_core=ETH
+trade_goods = coffee
+life_rating = 35
+naval_base = 1

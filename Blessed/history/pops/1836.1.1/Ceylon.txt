@@ -1,0 +1,500 @@
+1321 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 8174
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 6219
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 666
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 102
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 73020
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 12578
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 25360
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 2717
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 417
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 435
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 2282
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 92933
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 10124
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 17214
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 922
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 233
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 296
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 80215
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 2378
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 1809
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 25
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 21398
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 2341
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 1881
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 39
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 37176
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 3367
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 7292
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 608
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 154
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 47881
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 2341
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 1881
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 39
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size= 37176
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 3367
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 7292
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 608
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 154
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 47881
+	}
+
+}
+1325 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 8948
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 6808
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 316
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 68
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 408
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 80573
+	}
+
+	soldiers=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 1553
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 9172
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 426
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 92
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = orthodox
+		size= 4899
+	}
+
+}

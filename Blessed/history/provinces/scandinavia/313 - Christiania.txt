@@ -1,0 +1,15 @@
+owner=SWE
+controller=SWE
+add_core=ICL
+add_core=NOR
+add_core=SCA
+add_core=SWE
+trade_goods = fish
+life_rating = 40
+naval_base = 2
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

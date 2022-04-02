@@ -1,0 +1,5 @@
+owner=ADU
+controller=ADU
+add_core=TTE
+trade_goods = fish
+life_rating = 31

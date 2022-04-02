@@ -1,0 +1,5 @@
+owner=BOH
+controller=BOH
+trade_goods = fruit
+life_rating = 40
+naval_base = 2

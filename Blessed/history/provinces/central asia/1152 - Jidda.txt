@@ -1,0 +1,8 @@
+owner=AJU
+controller=X00
+add_core=AJU
+add_core=HDJ
+add_core=KAF
+trade_goods = grain
+life_rating = 35
+naval_base = 2

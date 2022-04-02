@@ -1,0 +1,6 @@
+owner=JNN
+controller=JNN
+add_core=JNN
+add_core=NUP
+trade_goods = timber
+life_rating = 10

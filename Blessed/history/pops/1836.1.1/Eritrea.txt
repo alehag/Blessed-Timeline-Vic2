@@ -1,0 +1,379 @@
+1848 = {
+	slaves=
+	{
+		culture = tigray
+		religion = shiite
+		size= 649
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 1522
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = shiite
+		size= 3805
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = shiite
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = shiite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = shiite
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 20486
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 1428
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 3348
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 8371
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 53
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 1005
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 45070
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 3196
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 5136
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 57
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 479
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 47713
+	}
+
+}
+1850 = {
+	slaves=
+	{
+		culture = tigray
+		religion = shiite
+		size= 3397
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 1522
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = shiite
+		size= 3805
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = shiite
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = shiite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = shiite
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = shiite
+		size= 17738
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 7474
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 3348
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 8371
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 53
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 1005
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shiite
+		size= 39024
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = shiite
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = shiite
+		size= 227
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = shiite
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = shiite
+		size= 8
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = shiite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = shiite
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = shiite
+		size= 10774
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = sunni
+		size= 697
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = sunni
+		size= 1621
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = sunni
+		size= 263
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 57
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = sunni
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 511
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = sunni
+		size= 31647
+	}
+
+}

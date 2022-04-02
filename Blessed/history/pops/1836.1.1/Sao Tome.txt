@@ -1,0 +1,114 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6624
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1590
+	}
+
+	slaves=
+	{
+		culture = austmen
+		religion = norse_pagan_reformed
+		size= 12598
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 160
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 894
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 33
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 1950
+	}
+
+}

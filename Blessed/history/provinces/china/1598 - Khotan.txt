@@ -1,0 +1,6 @@
+owner=TRX
+controller=TRX
+add_core=TRX
+add_core=YRK
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=ADU
+controller=ADU
+add_core=ADU
+trade_goods = silk
+life_rating = 35

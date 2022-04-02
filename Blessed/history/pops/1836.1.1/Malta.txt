@@ -1,0 +1,100 @@
+854 = {
+	soldiers=
+	{
+		culture = maltese
+		religion = sunni
+		size= 3974
+	}
+
+	artisans=
+	{
+		culture = maltese
+		religion = sunni
+		size= 4968
+	}
+
+	clergymen=
+	{
+		culture = maltese
+		religion = sunni
+		size= 461
+	}
+
+	bureaucrats=
+	{
+		culture = maltese
+		religion = sunni
+		size= 35
+	}
+
+	officers=
+	{
+		culture = maltese
+		religion = sunni
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = maltese
+		religion = sunni
+		size= 447
+	}
+
+	farmers=
+	{
+		culture = maltese
+		religion = sunni
+		size= 61010
+	}
+
+	soldiers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 1657
+	}
+
+	artisans=
+	{
+		culture = maltese
+		religion = catholic
+		size= 9110
+	}
+
+	clergymen=
+	{
+		culture = maltese
+		religion = catholic
+		size= 846
+	}
+
+	bureaucrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 820
+	}
+
+	farmers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 16950
+	}
+
+}

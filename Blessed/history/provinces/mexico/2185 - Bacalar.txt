@@ -1,0 +1,5 @@
+owner=ICL
+controller=ICL
+trade_goods = timber
+life_rating = 33
+fort = 1

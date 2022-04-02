@@ -1,0 +1,10 @@
+owner=X17
+controller=BRY
+add_core=BRY
+add_core=KHA
+add_core=KRC
+add_core=MGL
+add_core=SOL
+add_core=X17
+trade_goods = cattle
+life_rating = 35

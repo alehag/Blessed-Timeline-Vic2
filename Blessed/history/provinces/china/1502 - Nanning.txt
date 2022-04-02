@@ -1,0 +1,5 @@
+owner=LXA
+controller=LXA
+add_core=CHI
+trade_goods = fish
+life_rating = 32

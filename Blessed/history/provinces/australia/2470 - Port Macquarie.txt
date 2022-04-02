@@ -1,0 +1,8 @@
+owner=X28
+controller=X28
+add_core=AUI
+add_core=AUM
+add_core=X28
+trade_goods = grain
+life_rating = 33
+naval_base = 2

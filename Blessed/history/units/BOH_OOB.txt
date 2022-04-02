@@ -1,0 +1,1362 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+ARL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ENG = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+FRA = {
+	value = -2
+	level = 2
+}
+GDW = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+GRE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 73
+	influence_value = 5
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 78
+	influence_value = 7
+	level = 2
+}
+KAF = {
+	value = 13
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = -10
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 46
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 114
+	influence_value = 16
+	level = 3
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+PNJ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PNT = {
+	value = -19
+	level = 2
+}
+PRG = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -22
+	level = 2
+}
+RDL = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+ROM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SRI = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 10
+	level = 2
+}
+X02 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X13 = {
+	value = 20
+	level = 2
+}
+X14 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -2
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Letoslav z Husi"
+	date="1804.1.18"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Neuša Purkyne"
+	date="1798.12.13"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Neuša Sokol"
+	date="1814.1.6"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Neuša Thurn"
+	date="1814.1.7"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sofija Mansfeld"
+	date="1814.1.9"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Neuša z Falkensteina"
+	date="1814.1.13"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Rioc Sokol"
+	date="1814.1.14"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="11th Army"
+	location=599
+	regiment = {
+		name="1st Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+	regiment = {
+		name="1st Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="1st Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="2nd Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="1st Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="1st Troppau Infantry"
+		type=infantry
+		home=688
+	}
+	regiment = {
+		name="2nd Oppeln Infantry"
+		type=infantry
+		home=684
+	}
+}
+
+army = {
+	name="1st Army"
+	location=616
+	regiment = {
+		name="1st Plzen Infantry"
+		type=infantry
+		home=629
+	}
+	regiment = {
+		name="1st Judenburg Infantry"
+		type=infantry
+		home=617
+	}
+	regiment = {
+		name="1st Krems Infantry"
+		type=infantry
+		home=621
+	}
+	regiment = {
+		name="2nd Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="1st Hradec Králové Artillery"
+		type=artillery
+		home=626
+	}
+	regiment = {
+		name="1st Sopron Artillery"
+		type=artillery
+		home=623
+	}
+	regiment = {
+		name="2nd Gyor Artillery"
+		type=artillery
+		home=642
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2761
+	ship = {
+		name="Jan Dismas Zelenka"
+		type=frigate
+	}
+	ship = {
+		name="Šimon Brixi"
+		type=frigate
+	}
+	ship = {
+		name="František Tuma"
+		type=frigate
+	}
+	ship = {
+		name="Antonín Kraft"
+		type=frigate
+	}
+	ship = {
+		name="František Xaver Dušek"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trieste Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pola Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=633
+	regiment = {
+		name="3rd Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="1st Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="4th Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="1st Lemberg Infantry"
+		type=infantry
+		home=702
+	}
+	regiment = {
+		name="1st Proskorov Infantry"
+		type=infantry
+		home=955
+	}
+	regiment = {
+		name="1st Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="1st Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="1st Tarnow Artillery"
+		type=artillery
+		home=714
+	}
+	regiment = {
+		name="1st Rovne Artillery"
+		type=artillery
+		home=956
+	}
+	regiment = {
+		name="1st Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="1st Przemysl Artillery"
+		type=artillery
+		home=705
+	}
+}
+
+army = {
+	name="5th Army"
+	location=622
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="2nd Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="5th Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="1st Sankt Pölten Infantry"
+		type=infantry
+		home=620
+	}
+	regiment = {
+		name="1st Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="3rd Nowy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+}
+
+army = {
+	name="37th Army"
+	location=592
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Udine Infantry"
+		type=infantry
+		home=733
+	}
+	regiment = {
+		name="2nd Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="2nd Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Karlsbad Infantry"
+		type=infantry
+		home=627
+	}
+	regiment = {
+		name="1st Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+}
+
+army = {
+	name="31st Army"
+	location=627
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="2nd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="2nd Plzen Infantry"
+		type=infantry
+		home=629
+	}
+	regiment = {
+		name="2nd Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+}
+
+army = {
+	name="7th Army"
+	location=602
+	regiment = {
+		name="1st Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="3rd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Eisenstadt Infantry"
+		type=infantry
+		home=624
+	}
+	regiment = {
+		name="3rd Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="4th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="1st Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="1st Gyor Artillery"
+		type=artillery
+		home=642
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="7th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Teschen Artillery"
+		type=artillery
+		home=689
+	}
+}
+
+army = {
+	name="81st Army"
+	location=626
+	regiment = {
+		name="2nd Krems Infantry"
+		type=infantry
+		home=621
+	}
+	regiment = {
+		name="3rd Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="5th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="3rd Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="1st Tarnow Infantry"
+		type=infantry
+		home=714
+	}
+	regiment = {
+		name="3rd Stryi Infantry"
+		type=infantry
+		home=951
+	}
+}
+
+army = {
+	name="8th Army"
+	location=683
+	regiment = {
+		name="2nd Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="1st Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="1st Prešov Infantry"
+		type=infantry
+		home=638
+	}
+	regiment = {
+		name="1st Nowy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+	regiment = {
+		name="1st Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="1st Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="2nd Prague Infantry"
+		type=infantry
+		home=625
+	}
+}
+
+army = {
+	name="9th Army"
+	location=602
+	regiment = {
+		name="1st Budejovice Infantry"
+		type=infantry
+		home=630
+	}
+	regiment = {
+		name="2nd Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="4th Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="1st Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="1st Teschen Infantry"
+		type=infantry
+		home=689
+	}
+	regiment = {
+		name="6th Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+}
+
+army = {
+	name="12th Army"
+	location=625
+	regiment = {
+		name="1st Lida Infantry"
+		type=infantry
+		home=938
+	}
+	regiment = {
+		name="1st Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="1st Oppeln Infantry"
+		type=infantry
+		home=684
+	}
+	regiment = {
+		name="1st Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="2nd Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="1st Lomza Infantry"
+		type=infantry
+		home=709
+	}
+	regiment = {
+		name="1st Kovel Infantry"
+		type=infantry
+		home=957
+	}
+}
+
+army = {
+	name="13th Army"
+	location=622
+	regiment = {
+		name="1st Kattowitz Infantry"
+		type=infantry
+		home=685
+	}
+	regiment = {
+		name="4th Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="6th Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="2nd Tarnow Infantry"
+		type=infantry
+		home=714
+	}
+	regiment = {
+		name="2nd Kattowitz Infantry"
+		type=infantry
+		home=685
+	}
+	regiment = {
+		name="1st Szeged Infantry"
+		type=infantry
+		home=649
+	}
+	regiment = {
+		name="1st Vienna Infantry"
+		type=infantry
+		home=619
+	}
+}
+
+army = {
+	name="14th Army"
+	location=626
+	regiment = {
+		name="2nd Lemberg Infantry"
+		type=infantry
+		home=702
+	}
+	regiment = {
+		name="6th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Pinsk Infantry"
+		type=infantry
+		home=940
+	}
+	regiment = {
+		name="1st Przemysl Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="2nd Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Cernauti Infantry"
+		type=infantry
+		home=662
+	}
+	regiment = {
+		name="1st Brest-Litovsk Infantry"
+		type=infantry
+		home=937
+	}
+}
+
+army = {
+	name="15th Army"
+	location=682
+	regiment = {
+		name="1st Ljubljana Infantry"
+		type=infantry
+		home=768
+	}
+	regiment = {
+		name="4th Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="1st Lienz Infantry"
+		type=infantry
+		home=615
+	}
+	regiment = {
+		name="2nd Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="1st Postojna Infantry"
+		type=infantry
+		home=769
+	}
+	regiment = {
+		name="5th Klagenfurt Infantry"
+		type=infantry
+		home=618
+	}
+	regiment = {
+		name="3rd Košice Infantry"
+		type=infantry
+		home=637
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=624
+	regiment = {
+		name="2nd Sankt Pölten Infantry"
+		type=infantry
+		home=620
+	}
+	regiment = {
+		name="5th Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="5th Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="7th Brno Infantry"
+		type=infantry
+		home=631
+	}
+	regiment = {
+		name="2nd Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+	regiment = {
+		name="2nd Judenburg Infantry"
+		type=infantry
+		home=617
+	}
+	regiment = {
+		name="1st Innsbruck Artillery"
+		type=artillery
+		home=612
+	}
+	regiment = {
+		name="1st Nitra Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="2nd Innsbruck Artillery"
+		type=artillery
+		home=612
+	}
+	regiment = {
+		name="8th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Landshut Artillery"
+		type=artillery
+		home=600
+	}
+}
+
+army = {
+	name="4th Army"
+	location=595
+	regiment = {
+		name="1st Waldenburg Infantry"
+		type=infantry
+		home=683
+	}
+	regiment = {
+		name="2nd Prešov Infantry"
+		type=infantry
+		home=638
+	}
+	regiment = {
+		name="3rd Kattowitz Infantry"
+		type=infantry
+		home=685
+	}
+	regiment = {
+		name="6th Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="1st Radom Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="3rd Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="1st Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Baranovichi Artillery"
+		type=artillery
+		home=939
+	}
+	regiment = {
+		name="1st Pinsk Artillery"
+		type=artillery
+		home=940
+	}
+	regiment = {
+		name="7th Linz Infantry"
+		type=infantry
+		home=622
+	}
+}
+
+army = {
+	name="6th Army"
+	location=601
+	regiment = {
+		name="1st Grodno Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="3rd Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="1st Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="2nd Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="2nd Nowy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+	regiment = {
+		name="1st Botosani Infantry"
+		type=infantry
+		home=671
+	}
+}
+
+army = {
+	name="10th Army"
+	location=600
+	regiment = {
+		name="2nd Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="3rd Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="4th Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="2nd Grodno Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="1st Stryi Infantry"
+		type=infantry
+		home=951
+	}
+	regiment = {
+		name="2nd Trencín Infantry"
+		type=infantry
+		home=634
+	}
+}
+
+army = {
+	name="16th Army"
+	location=623
+	regiment = {
+		name="1st Kielce Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="1st Pécs Infantry"
+		type=infantry
+		home=640
+	}
+	regiment = {
+		name="2nd Stryi Infantry"
+		type=infantry
+		home=951
+	}
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Plzen Artillery"
+		type=artillery
+		home=629
+	}
+	regiment = {
+		name="1st Aussig Artillery"
+		type=artillery
+		home=628
+	}
+	regiment = {
+		name="1st Karlsbad Artillery"
+		type=artillery
+		home=627
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=733
+	ship = {
+		name="2nd Bohemian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bohemian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bohemian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Padua Frigate"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,10 @@
+owner=DAW
+controller=DAW
+add_core=ADE
+add_core=ARA
+add_core=DAW
+add_core=X00
+trade_goods = wool
+life_rating = 35
+terrain = semidesert
+naval_base = 1

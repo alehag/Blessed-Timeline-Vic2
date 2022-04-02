@@ -1,0 +1,7 @@
+owner=PER
+controller=BSK
+add_core=ARL
+add_core=AZB
+add_core=PER
+trade_goods = silk
+life_rating = 35

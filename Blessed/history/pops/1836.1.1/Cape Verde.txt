@@ -1,0 +1,58 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 3984
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 533
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 761
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 29
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 13393
+	}
+
+}

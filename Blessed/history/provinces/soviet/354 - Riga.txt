@@ -1,0 +1,7 @@
+owner=BOH
+controller=BOH
+add_core=BYE
+add_core=KIE
+trade_goods = fish
+life_rating = 40
+fort = 1

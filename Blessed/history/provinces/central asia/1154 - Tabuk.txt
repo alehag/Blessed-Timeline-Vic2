@@ -1,0 +1,8 @@
+owner=X00
+controller=AJU
+add_core=ARA
+add_core=HDJ
+add_core=X00
+trade_goods = wool
+life_rating = 35
+naval_base = 1

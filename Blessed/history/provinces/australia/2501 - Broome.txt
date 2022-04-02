@@ -1,0 +1,9 @@
+owner=X30
+controller=X27
+add_core=AUZ
+add_core=TIW
+add_core=X30
+trade_goods = grain
+life_rating = 31
+terrain = savanna
+naval_base = 2

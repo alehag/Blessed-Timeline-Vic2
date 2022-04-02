@@ -1,0 +1,6 @@
+owner=MCK
+controller=MCK
+add_core=CSK
+add_core=JAP
+trade_goods = wool
+life_rating = 35

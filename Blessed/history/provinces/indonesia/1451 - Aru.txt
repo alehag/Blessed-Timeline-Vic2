@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=TID
+trade_goods = fish
+life_rating = 31
+colonial=2
+naval_base = 1

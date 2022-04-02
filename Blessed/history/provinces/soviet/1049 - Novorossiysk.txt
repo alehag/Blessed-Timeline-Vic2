@@ -1,0 +1,8 @@
+owner=PNT
+controller=PNT
+add_core=CIR
+add_core=GEO
+add_core=IME
+trade_goods = grain
+life_rating = 35
+naval_base = 2

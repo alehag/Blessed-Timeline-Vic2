@@ -1,0 +1,13 @@
+owner=NET
+controller=NET
+add_core=BEL
+add_core=HAT
+add_core=WLL
+trade_goods = iron
+life_rating = 31
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

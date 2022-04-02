@@ -1,0 +1,8 @@
+owner=X18
+controller=GDW
+add_core=HND
+add_core=ORI
+add_core=X18
+trade_goods = grain
+life_rating = 32
+fort = 1

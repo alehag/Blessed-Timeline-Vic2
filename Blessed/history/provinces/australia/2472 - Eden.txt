@@ -1,0 +1,6 @@
+owner=X28
+controller=X28
+add_core=AUW
+add_core=X28
+trade_goods = grain
+life_rating = 33

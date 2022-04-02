@@ -1,0 +1,48 @@
+vassal=
+{
+	first="ADU"
+	second="X27"
+	start_date="1746.1.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X26"
+	start_date="1536.4.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X28"
+	start_date="1597.7.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ICL"
+	second="SWE"
+	start_date="1550.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="NZL"
+	start_date="1820.8.27"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="X30"
+	start_date="1800.8.16"
+	end_date="1936.1.1"
+}
+

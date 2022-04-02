@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=JAV
+add_core=MJP
+trade_goods = grain
+life_rating = 35
+colonial=2
+naval_base = 2

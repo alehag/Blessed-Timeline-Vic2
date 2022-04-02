@@ -1,0 +1,114 @@
+1329 = {
+	slaves=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 21443
+	}
+
+	soldiers=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 6717
+	}
+
+	artisans=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 19239
+	}
+
+	clergymen=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 1786
+	}
+
+	bureaucrats=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 261
+	}
+
+	officers=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 220
+	}
+
+	aristocrats=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 1155
+	}
+
+	farmers=
+	{
+		culture = assamese
+		religion = mahayana
+		size= 69119
+	}
+
+	slaves=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 6252
+	}
+
+	soldiers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 1958
+	}
+
+	artisans=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 2448
+	}
+
+	clergymen=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 33
+	}
+
+	officers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = assamese
+		religion = gelugpa
+		size= 23876
+	}
+
+}

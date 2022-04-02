@@ -1,0 +1,1124 @@
+1808 = {
+	slaves=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 525
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 1040
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 1001
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 10
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 15875
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1166
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 7369
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 395
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 79
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 27633
+	}
+
+}
+1809 = {
+	slaves=
+	{
+		culture = mande
+		religion = ibadi
+		size= 3594
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = ibadi
+		size= 4464
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = ibadi
+		size= 3396
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = ibadi
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = ibadi
+		size= 36
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = ibadi
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = ibadi
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = ibadi
+		size= 36383
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 5666
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 7037
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 14106
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 756
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 152
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 1692
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 46844
+	}
+
+}
+1810 = {
+	slaves=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 2886
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 1952
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 1998
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 22
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 27630
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = druze
+		size= 1288
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = druze
+		size= 871
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = druze
+		size= 1531
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = druze
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = druze
+		size= 16
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = druze
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = druze
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = druze
+		size= 11563
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = sunni
+		size= 4827
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 3265
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 11690
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 626
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 125
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1403
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 36228
+	}
+
+}
+1811 = {
+	slaves=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 720
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 126
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = ibadi
+		size= 5030
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = coptic
+		size= 2377
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = coptic
+		size= 1168
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = coptic
+		size= 961
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = coptic
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = ibo
+		religion = coptic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = coptic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = coptic
+		size= 404
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = coptic
+		size= 15695
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 883
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 434
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 6
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = ibadi
+		size= 6174
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = coptic
+		size= 2833
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = coptic
+		size= 1392
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = coptic
+		size= 1149
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = coptic
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = coptic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = coptic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = coptic
+		size= 483
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = coptic
+		size= 18698
+	}
+
+}
+1812 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 1312
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 1698
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 607
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 23
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = ibadi
+		size= 26286
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 3864
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 4999
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 4177
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 783
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 157
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 1754
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 73361
+	}
+
+}
+1814 = {
+	aristocrats=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 9025
+	}
+
+	slaves=
+	{
+		culture = teda
+		religion = sunni
+		size= 1000
+	}
+
+}
+1815 = {
+	slaves=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 639
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6159
+	}
+
+	slaves=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 2151
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 1408
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 1155
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 19639
+	}
+
+}
+1816 = {
+	slaves=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 654
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 445
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = ibadi
+		size= 6574
+	}
+
+	slaves=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 2254
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 1534
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 1254
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 527
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = coptic
+		size= 21488
+	}
+
+}
+1817 = {
+	slaves=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 1618
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 816
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 1019
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = orthodox
+		size= 10971
+	}
+
+	slaves=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 4421
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 2228
+	}
+
+	artisans=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 6590
+	}
+
+	clergymen=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 71
+	}
+
+	officers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 25658
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=TRX
+controller=TRX
+add_core=CHI
+add_core=KLK
+trade_goods = timber
+life_rating = 32

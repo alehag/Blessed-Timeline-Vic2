@@ -1,0 +1,8 @@
+owner=X17
+controller=TRX
+add_core=SHY
+add_core=TKS
+add_core=TRX
+add_core=X17
+trade_goods = coal
+life_rating = 30

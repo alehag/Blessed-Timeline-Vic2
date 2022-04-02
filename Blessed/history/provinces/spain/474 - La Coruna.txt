@@ -1,0 +1,7 @@
+owner=ADU
+controller=ADU
+add_core=GLC
+add_core=SPA
+add_core=X05
+trade_goods = fish
+life_rating = 35

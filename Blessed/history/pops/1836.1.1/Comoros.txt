@@ -1,0 +1,340 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 142
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 6525
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = cathar
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 382
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 1377
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 282
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 2604
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 37
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 10470
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 2089
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 4578
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = cathar
+		size= 559
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 382
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = cathar
+		size= 856
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = cathar
+		size= 4146
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = cathar
+		size= 2604
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = cathar
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 37
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = cathar
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = cathar
+		size= 6606
+	}
+
+}

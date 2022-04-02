@@ -1,0 +1,8 @@
+owner=TRX
+controller=TRX
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=YRK
+trade_goods = cotton
+life_rating = 32

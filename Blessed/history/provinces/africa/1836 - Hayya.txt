@@ -1,0 +1,8 @@
+owner=X00
+controller=X00
+add_core=NEJ
+add_core=X00
+add_core=X07
+trade_goods = wool
+life_rating = 10
+terrain = desert

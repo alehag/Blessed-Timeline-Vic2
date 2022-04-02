@@ -1,0 +1,1121 @@
+#Sphere of Influence
+
+ADU = {
+	value = 3
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 34
+	level = 2
+}
+ARL = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 4
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 132
+	influence_value = 20
+	level = 3
+}
+CRO = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAW = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 53
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 50
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = -7
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDO = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -9
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MYR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NVG = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PNT = {
+	value = 0
+	level = 2
+}
+PRG = {
+	value = -90
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIB = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TKG = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 5
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = -29
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Jyad Ibn Yusuf"
+	date="1800.9.20"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Ibrahim II"
+	date="1818.9.7"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="al-Hakam Ibn al-Azafi"
+	date="1805.8.3"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Dumìnicu Ibn Yahyà"
+	date="1810.4.18"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Ma'n Ibn Abd al-Rahman"
+	date="1810.4.21"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Hisham Ibn Yusuf"
+	date="1814.5.4"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="Independent Army"
+	location=2322
+	regiment = {
+		name="1st Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="2nd Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="3rd Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="4th Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="5th Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="7th Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2355
+	regiment = {
+		name="1st Recife Irregulars"
+		type=irregular
+		home=2432
+	}
+	regiment = {
+		name="2nd Recife Irregulars"
+		type=irregular
+		home=2432
+	}
+	regiment = {
+		name="3rd Recife Irregulars"
+		type=irregular
+		home=2432
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2395
+	regiment = {
+		name="1st Paracatu Irregulars"
+		type=irregular
+		home=2444
+	}
+	regiment = {
+		name="1st São Luís Irregulars"
+		type=irregular
+		home=2424
+	}
+	regiment = {
+		name="2nd Paracatu Irregulars"
+		type=irregular
+		home=2444
+	}
+	regiment = {
+		name="1st Oriximina Artillery"
+		type=artillery
+		home=2408
+	}
+	regiment = {
+		name="1st Fortaleza Artillery"
+		type=artillery
+		home=2429
+	}
+	regiment = {
+		name="2nd Fortaleza Artillery"
+		type=artillery
+		home=2429
+	}
+	regiment = {
+		name="6th Paraíba Irregulars"
+		type=irregular
+		home=2428
+	}
+	regiment = {
+		name="2nd Santa Cruz Artillery"
+		type=artillery
+		home=2316
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2322
+	regiment = {
+		name="1st Vitória da Conquista Irregulars"
+		type=irregular
+		home=2440
+	}
+	regiment = {
+		name="1st Cuiabá Artillery"
+		type=artillery
+		home=2418
+	}
+	regiment = {
+		name="1st São Luís Artillery"
+		type=artillery
+		home=2424
+	}
+	regiment = {
+		name="2nd Cuiabá Artillery"
+		type=artillery
+		home=2418
+	}
+	regiment = {
+		name="1st Porto Alegre Artillery"
+		type=artillery
+		home=2463
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=2446
+	regiment = {
+		name="1st Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+	regiment = {
+		name="2nd Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+	regiment = {
+		name="3rd Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+	regiment = {
+		name="4th Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+	regiment = {
+		name="5th Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+	regiment = {
+		name="6th Vila do Barra Irregulars"
+		type=irregular
+		home=2438
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2322
+	regiment = {
+		name="2nd São Luís Irregulars"
+		type=irregular
+		home=2424
+	}
+	regiment = {
+		name="1st Aganja Artillery"
+		type=artillery
+		home=2422
+	}
+	regiment = {
+		name="1st Paraíba Artillery"
+		type=artillery
+		home=2428
+	}
+	regiment = {
+		name="2nd Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2374
+	regiment = {
+		name="1st Vila da Palma Irregulars"
+		type=irregular
+		home=2423
+	}
+	regiment = {
+		name="1st Cuiabá Irregulars"
+		type=irregular
+		home=2418
+	}
+	regiment = {
+		name="1st Recife Artillery"
+		type=artillery
+		home=2432
+	}
+	regiment = {
+		name="1st Dourados Artillery"
+		type=artillery
+		home=2416
+	}
+	regiment = {
+		name="1st Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+	regiment = {
+		name="1st Vila da Palma Artillery"
+		type=artillery
+		home=2423
+	}
+	regiment = {
+		name="3rd Fortaleza Artillery"
+		type=artillery
+		home=2429
+	}
+	regiment = {
+		name="1st Marabitanas Artillery"
+		type=artillery
+		home=2401
+	}
+	regiment = {
+		name="1st Óbidos Artillery"
+		type=artillery
+		home=2412
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2425
+	regiment = {
+		name="3rd Paracatu Irregulars"
+		type=irregular
+		home=2444
+	}
+	regiment = {
+		name="1st Juazeiro Irregulars"
+		type=irregular
+		home=2437
+	}
+	regiment = {
+		name="1st Porto Seguro Irregulars"
+		type=irregular
+		home=2439
+	}
+	regiment = {
+		name="1st Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+	regiment = {
+		name="1st Vila Boa Artillery"
+		type=artillery
+		home=2421
+	}
+	regiment = {
+		name="1st Oeiras Artillery"
+		type=artillery
+		home=2427
+	}
+	regiment = {
+		name="1st Manaus Artillery"
+		type=artillery
+		home=2402
+	}
+	regiment = {
+		name="1st Crato Irregulars"
+		type=irregular
+		home=2430
+	}
+	regiment = {
+		name="3rd Vila Boa Artillery"
+		type=artillery
+		home=2421
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2435
+	ship = {
+		name="Primeiro De Março"
+		type=manowar
+	}
+	ship = {
+		name="Paraíba"
+		type=manowar
+	}
+	ship = {
+		name="Guanabara"
+		type=manowar
+	}
+	ship = {
+		name="Trajano"
+		type=manowar
+	}
+	ship = {
+		name="Vital De Oliveira"
+		type=manowar
+	}
+	ship = {
+		name="Niterói"
+		type=manowar
+	}
+	ship = {
+		name="Sergipe"
+		type=manowar
+	}
+	ship = {
+		name="Paraná"
+		type=manowar
+	}
+	ship = {
+		name="Greenhalgh"
+		type=manowar
+	}
+	ship = {
+		name="Macapá"
+		type=manowar
+	}
+	ship = {
+		name="2nd Macapá Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Recife Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Vila do Poti Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2983
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+	ship = {
+		name="Julio De Noronha"
+		type=frigate
+	}
+	ship = {
+		name="Uniao"
+		type=frigate
+	}
+	ship = {
+		name="2nd Desterro Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2982
+	ship = {
+		name="1st Fortaleza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Belém"
+		type=frigate
+	}
+	ship = {
+		name="Vigia"
+		type=frigate
+	}
+	ship = {
+		name="1st Desterro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fortaleza Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Desterro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Macapá Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Desterro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tunis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Desterro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Desterro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cardigan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st São Luís Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Maceió Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2450
+	regiment = {
+		name="1st Maceió Artillery"
+		type=artillery
+		home=2434
+	}
+	regiment = {
+		name="2nd Paraíba Artillery"
+		type=artillery
+		home=2428
+	}
+	regiment = {
+		name="2nd Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+	regiment = {
+		name="2nd Oeiras Artillery"
+		type=artillery
+		home=2427
+	}
+}
+
+army = {
+	name="37th Army"
+	location=2392
+	regiment = {
+		name="1st Fortaleza Irregulars"
+		type=irregular
+		home=2429
+	}
+	regiment = {
+		name="1st Sabará Artillery"
+		type=artillery
+		home=2442
+	}
+	regiment = {
+		name="2nd Vila Boa Artillery"
+		type=artillery
+		home=2421
+	}
+	regiment = {
+		name="2nd Maceió Artillery"
+		type=artillery
+		home=2434
+	}
+	regiment = {
+		name="3rd Juazeiro Artillery"
+		type=artillery
+		home=2437
+	}
+	regiment = {
+		name="2nd Cuiabá Irregulars"
+		type=irregular
+		home=2418
+	}
+	regiment = {
+		name="1st Pelotas Artillery"
+		type=artillery
+		home=2464
+	}
+}
+
+army = {
+	name="26th Army"
+	location=2386
+	regiment = {
+		name="2nd São Luís Artillery"
+		type=artillery
+		home=2424
+	}
+	regiment = {
+		name="1st Crato Artillery"
+		type=artillery
+		home=2430
+	}
+	regiment = {
+		name="2nd Vila da Palma Artillery"
+		type=artillery
+		home=2423
+	}
+	regiment = {
+		name="2nd Belém Artillery"
+		type=artillery
+		home=2410
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2373
+	regiment = {
+		name="1st Santa Cruz Artillery"
+		type=artillery
+		home=2316
+	}
+	regiment = {
+		name="1st Belém Artillery"
+		type=artillery
+		home=2410
+	}
+}
+

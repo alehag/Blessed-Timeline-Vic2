@@ -1,0 +1,333 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2047
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 5244
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = norse_pagan_reformed
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = austmen
+		religion = norse_pagan_reformed
+		size= 3870
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 34
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = norse_pagan_reformed
+		size= 9075
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 63
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 4174
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = sunni
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = sunni
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = sunni
+		size= 612
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = sunni
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = sunni
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = sunni
+		size= 5532
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 61
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1385
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2571
+	}
+
+}

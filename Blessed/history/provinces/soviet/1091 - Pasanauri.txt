@@ -1,0 +1,6 @@
+owner=PNT
+controller=PNT
+add_core=FRA
+add_core=NRM
+trade_goods = wool
+life_rating = 35

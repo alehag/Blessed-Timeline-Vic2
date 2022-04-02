@@ -1,0 +1,8 @@
+owner=X27
+controller=X27
+add_core=ABO
+add_core=AUP
+add_core=AUW
+trade_goods = wool
+life_rating = 35
+naval_base = 1

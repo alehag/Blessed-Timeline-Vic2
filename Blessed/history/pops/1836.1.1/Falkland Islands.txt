@@ -1,0 +1,100 @@
+2131 = {
+	soldiers=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 190
+	}
+
+	artisans=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 761
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	officers=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = scandinavian_andes_superregion_culture
+		religion = norse_pagan_reformed
+		size= 17612
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 653
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 25
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = cathar
+		size= 15095
+	}
+
+}

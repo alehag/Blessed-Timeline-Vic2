@@ -1,0 +1,5 @@
+owner=TRX
+controller=TRX
+add_core=TUR
+trade_goods = silk
+life_rating = 32

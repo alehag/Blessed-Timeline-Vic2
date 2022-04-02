@@ -1,0 +1,5 @@
+owner=BSK
+controller=BSK
+add_core=GZK
+trade_goods = grain
+life_rating = 35
