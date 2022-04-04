@@ -1,6 +1,6 @@
 capital = 1105
 primary_culture = azerbaijani
-culture = zzz_religion_shiite
+
 religion = shiite
 government = absolute_monarchy
 plurality = 0

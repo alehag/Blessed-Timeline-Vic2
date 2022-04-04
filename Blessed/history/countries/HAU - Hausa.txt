@@ -1,6 +1,6 @@
 capital = 1948
 primary_culture = hausa
-culture = zzz_religion_ibadi
+
 religion = ibadi
 government = absolute_monarchy
 plurality = 0

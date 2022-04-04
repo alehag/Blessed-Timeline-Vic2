@@ -1,6 +1,6 @@
 capital = 1602
 primary_culture = nanfaren
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

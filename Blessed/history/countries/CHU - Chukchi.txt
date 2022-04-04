@@ -1,7 +1,7 @@
 capital = 2648
 primary_culture = eskaleut
 culture = yakut
-culture = zzz_religion_tengri_pagan_reformed
+
 religion = tengri_pagan_reformed
 government = absolute_monarchy
 plurality = 0

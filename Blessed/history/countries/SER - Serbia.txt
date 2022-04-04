@@ -1,6 +1,6 @@
 capital = 795
 primary_culture = serb
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = bourgeois_dictatorship
 plurality = 0

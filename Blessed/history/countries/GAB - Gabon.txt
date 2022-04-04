@@ -1,6 +1,6 @@
 capital = 1972
 primary_culture = fang
-culture = zzz_religion_catholic
+
 religion = catholic
 government = democracy
 plurality = 0

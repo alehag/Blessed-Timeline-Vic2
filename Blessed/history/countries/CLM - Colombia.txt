@@ -1,7 +1,7 @@
 capital = 2267
 primary_culture = andalusian_south_america_superregion_culture
 culture = andalucian
-culture = zzz_religion_sunni
+
 religion = sunni
 government = democracy
 plurality = 0

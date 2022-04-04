@@ -1,6 +1,6 @@
 capital = 493
 primary_culture = basque
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

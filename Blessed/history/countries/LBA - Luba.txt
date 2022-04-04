@@ -1,6 +1,6 @@
 capital = 1982
 primary_culture = luba
-culture = zzz_religion_shamanism
+
 religion = shamanism
 government = absolute_monarchy
 plurality = 0

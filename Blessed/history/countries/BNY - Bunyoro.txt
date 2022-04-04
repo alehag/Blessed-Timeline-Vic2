@@ -1,7 +1,7 @@
 capital = 2020
 primary_culture = baganda
 culture = maasai
-culture = zzz_religion_shamanism
+
 religion = shamanism
 government = absolute_monarchy
 plurality = 0

@@ -1,7 +1,7 @@
 capital = 1555
 primary_culture = manchu
 culture = korean
-culture = zzz_religion_mahayana
+
 religion = mahayana
 government = absolute_monarchy
 plurality = 0

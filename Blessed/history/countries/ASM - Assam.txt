@@ -1,7 +1,7 @@
 capital = 1258
 primary_culture = bengali
 culture = tibetan
-culture = zzz_religion_mahayana
+
 religion = mahayana
 government = absolute_monarchy
 plurality = 0

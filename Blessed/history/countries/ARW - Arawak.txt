@@ -1,6 +1,6 @@
 capital = 2532
 primary_culture = guajiro
-culture = zzz_religion_animist
+
 religion = animist
 government = democracy
 plurality = 0

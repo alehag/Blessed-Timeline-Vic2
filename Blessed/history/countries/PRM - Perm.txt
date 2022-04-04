@@ -1,6 +1,6 @@
 capital = 2700
 primary_culture = ugrian
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0

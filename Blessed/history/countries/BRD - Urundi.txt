@@ -1,6 +1,6 @@
 capital = 2035
 primary_culture = rundi
-culture = zzz_religion_animist
+
 religion = animist
 government = absolute_monarchy
 plurality = 0

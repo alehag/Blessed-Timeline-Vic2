@@ -1,6 +1,6 @@
 capital = 695
 primary_culture = pruthenian
-culture = zzz_religion_catholic
+
 religion = catholic
 government = bourgeois_dictatorship
 plurality = 0

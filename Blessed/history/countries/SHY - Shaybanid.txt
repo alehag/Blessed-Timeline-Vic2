@@ -1,6 +1,6 @@
 capital = 1184
 primary_culture = uzbek
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

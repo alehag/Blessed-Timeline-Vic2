@@ -4,7 +4,7 @@ culture = breton
 culture = french
 culture = picard
 culture = rollonian
-culture = zzz_religion_cathar
+
 religion = cathar
 government = absolute_monarchy
 plurality = 0

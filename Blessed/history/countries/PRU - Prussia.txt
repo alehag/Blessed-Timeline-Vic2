@@ -1,7 +1,7 @@
 capital = 537
 primary_culture = north_german
 culture = south_german
-culture = zzz_religion_cathar
+
 religion = cathar
 government = prussian_constitutionalism
 plurality = 0

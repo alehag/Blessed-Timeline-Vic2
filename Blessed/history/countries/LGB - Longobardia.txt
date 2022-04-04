@@ -1,6 +1,6 @@
 capital = 726
 primary_culture = lombard
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

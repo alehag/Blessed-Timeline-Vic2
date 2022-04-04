@@ -1,6 +1,6 @@
 capital = 1587
 primary_culture = tibetan
-culture = zzz_religion_gelugpa
+
 religion = gelugpa
 government = theocracy
 plurality = 0

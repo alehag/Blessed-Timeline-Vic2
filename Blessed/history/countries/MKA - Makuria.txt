@@ -1,6 +1,6 @@
 capital = 1835
 primary_culture = mavro
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = absolute_monarchy
 plurality = 0

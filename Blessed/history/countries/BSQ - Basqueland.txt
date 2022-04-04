@@ -1,6 +1,6 @@
 capital = 492
 primary_culture = basque
-culture = zzz_religion_catholic
+
 religion = catholic
 government = democracy
 plurality = 0

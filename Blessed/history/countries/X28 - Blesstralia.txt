@@ -1,7 +1,7 @@
 capital = 2470
 primary_culture = australienne
 culture = aborigine
-culture = zzz_religion_cathar
+
 religion = cathar
 government = presidential_dictatorship
 plurality = 0

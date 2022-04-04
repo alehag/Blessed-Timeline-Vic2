@@ -1,6 +1,6 @@
 capital = 1416
 primary_culture = javan
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

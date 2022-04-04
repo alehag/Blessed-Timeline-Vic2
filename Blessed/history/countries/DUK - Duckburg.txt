@@ -1,6 +1,6 @@
 capital = 84
 primary_culture = duck_culture
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = bourgeois_dictatorship
 plurality = 0

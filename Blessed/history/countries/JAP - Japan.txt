@@ -1,6 +1,6 @@
 capital = 1657
 primary_culture = japanese
-culture = zzz_religion_shinto
+
 religion = shinto
 government = democracy
 plurality = 0

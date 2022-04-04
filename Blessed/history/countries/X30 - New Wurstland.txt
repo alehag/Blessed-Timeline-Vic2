@@ -1,7 +1,7 @@
 capital = 2505
 primary_culture = sudreicher
 culture = aborigine
-culture = zzz_religion_cathar
+
 religion = cathar
 government = presidential_dictatorship
 plurality = 0

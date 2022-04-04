@@ -1,6 +1,6 @@
 capital = 994
 primary_culture = estonian
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = democracy
 plurality = 0

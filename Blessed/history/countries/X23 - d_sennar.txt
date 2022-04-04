@@ -2,7 +2,7 @@ capital = 1739
 primary_culture = ifriqi
 culture = misri
 culture = sudanese
-culture = zzz_religion_shiite
+
 religion = shiite
 government = absolute_monarchy
 plurality = 0

@@ -2,7 +2,7 @@ capital = 1285
 primary_culture = avadhi
 culture = kannada
 culture = oriya
-culture = zzz_religion_hindu
+
 religion = hindu
 government = absolute_monarchy
 plurality = 0

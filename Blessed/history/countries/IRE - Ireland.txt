@@ -1,6 +1,6 @@
 capital = 264
 primary_culture = elsinorian
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = democracy
 plurality = 0

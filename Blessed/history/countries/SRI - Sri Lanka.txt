@@ -5,7 +5,7 @@ culture = oriya
 culture = sinhala
 culture = tamil
 culture = telegu
-culture = zzz_religion_hindu
+
 religion = hindu
 government = absolute_monarchy
 plurality = 0

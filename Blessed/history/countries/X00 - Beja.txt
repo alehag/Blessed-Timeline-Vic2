@@ -2,7 +2,7 @@ capital = 1833
 primary_culture = ifriqi
 culture = bedouin
 culture = mashriqi
-culture = zzz_religion_shiite
+
 religion = shiite
 government = absolute_monarchy
 plurality = 0

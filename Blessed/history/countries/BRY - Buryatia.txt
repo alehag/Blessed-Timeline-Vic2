@@ -2,7 +2,7 @@ capital = 2676
 primary_culture = yakut
 culture = manchu
 culture = mongol
-culture = zzz_religion_theravada
+
 religion = theravada
 government = absolute_monarchy
 plurality = 0

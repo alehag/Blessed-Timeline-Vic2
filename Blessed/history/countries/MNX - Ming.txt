@@ -1,7 +1,7 @@
 capital = 1614
 primary_culture = beifaren
 culture = nanfaren
-culture = zzz_religion_mahayana
+
 religion = mahayana
 government = absolute_monarchy
 plurality = 0

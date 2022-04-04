@@ -1,7 +1,7 @@
 capital = 1863
 primary_culture = ifriqi
 culture = amhara
-culture = zzz_religion_shiite
+
 religion = shiite
 government = absolute_monarchy
 plurality = 0

@@ -1,6 +1,6 @@
 capital = 1767
 primary_culture = cat
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = theocracy
 plurality = 0

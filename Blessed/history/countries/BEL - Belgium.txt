@@ -1,6 +1,6 @@
 capital = 387
 primary_culture = wallonian
-culture = zzz_religion_catholic
+
 religion = catholic
 government = hms_government
 plurality = 0

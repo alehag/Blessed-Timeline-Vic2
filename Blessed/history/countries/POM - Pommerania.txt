@@ -1,6 +1,6 @@
 capital = 546
 primary_culture = dummy
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

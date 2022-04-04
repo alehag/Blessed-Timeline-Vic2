@@ -1,6 +1,6 @@
 capital = 1095
 primary_culture = circassian
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = presidential_dictatorship
 plurality = 0

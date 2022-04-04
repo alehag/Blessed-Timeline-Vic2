@@ -4,7 +4,7 @@ culture = avadhi
 culture = kanauji
 culture = nepali
 culture = rajput
-culture = zzz_religion_hindu
+
 religion = hindu
 government = absolute_monarchy
 plurality = 0

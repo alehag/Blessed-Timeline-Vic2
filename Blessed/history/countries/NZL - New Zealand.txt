@@ -1,7 +1,7 @@
 capital = 2510
 primary_culture = zuidelijk
 culture = maori
-culture = zzz_religion_catholic
+
 religion = catholic
 government = presidential_dictatorship
 plurality = 0

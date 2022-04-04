@@ -1,6 +1,6 @@
 capital = 2303
 primary_culture = quechua
-culture = zzz_religion_inti
+
 religion = inti
 government = absolute_monarchy
 plurality = 0

@@ -1,6 +1,6 @@
 capital = 744
 primary_culture = undead
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = theocracy
 plurality = 0

@@ -1,7 +1,7 @@
 capital = 1602
 primary_culture = shan
 culture = burmese
-culture = zzz_religion_theravada
+
 religion = theravada
 government = absolute_monarchy
 plurality = 0

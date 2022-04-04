@@ -1,6 +1,6 @@
 capital = 368
 primary_culture = danish
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = democracy
 plurality = 0

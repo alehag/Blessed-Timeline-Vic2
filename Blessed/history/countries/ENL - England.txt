@@ -1,6 +1,6 @@
 capital = 283
 primary_culture = english
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = democracy
 plurality = 0

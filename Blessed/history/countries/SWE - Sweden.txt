@@ -2,7 +2,7 @@ capital = 322
 primary_culture = swedish
 culture = finnish
 culture = icelandic
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0

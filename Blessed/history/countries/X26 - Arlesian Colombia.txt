@@ -1,7 +1,7 @@
 capital = 2254
 primary_culture = antartique
 culture = andalusian_south_america_superregion_culture
-culture = zzz_religion_cathar
+
 religion = cathar
 government = presidential_dictatorship
 plurality = 0

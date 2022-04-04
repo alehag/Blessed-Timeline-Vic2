@@ -1,6 +1,6 @@
 capital = 3
 primary_culture = alaskan
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = democracy
 plurality = 0

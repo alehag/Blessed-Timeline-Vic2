@@ -1,6 +1,6 @@
 capital = 1343
 primary_culture = karen
-culture = zzz_religion_theravada
+
 religion = theravada
 government = absolute_monarchy
 plurality = 0

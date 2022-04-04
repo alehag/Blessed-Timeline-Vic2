@@ -1,7 +1,7 @@
 capital = 1360
 primary_culture = lao
 culture = thai
-culture = zzz_religion_theravada
+
 religion = theravada
 government = absolute_monarchy
 plurality = 0

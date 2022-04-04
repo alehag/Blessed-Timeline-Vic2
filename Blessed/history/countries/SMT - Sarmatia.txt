@@ -1,5 +1,5 @@
 primary_culture = sarmatian
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

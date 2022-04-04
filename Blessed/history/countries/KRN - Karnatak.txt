@@ -1,6 +1,6 @@
 capital = 1313
 primary_culture = tamil
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

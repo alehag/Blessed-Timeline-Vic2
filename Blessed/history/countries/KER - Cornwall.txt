@@ -1,7 +1,7 @@
 capital = 299
 primary_culture = welsh
 culture = english
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

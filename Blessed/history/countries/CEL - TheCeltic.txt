@@ -3,7 +3,7 @@ primary_culture = irish
 culture = breton
 culture = pictish
 culture = welsh
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = absolute_monarchy
 plurality = 0

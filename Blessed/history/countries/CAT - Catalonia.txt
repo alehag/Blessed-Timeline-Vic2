@@ -1,6 +1,6 @@
 capital = 464
 primary_culture = catalan
-culture = zzz_religion_catholic
+
 religion = catholic
 government = proletarian_dictatorship
 plurality = 0

@@ -1,6 +1,6 @@
 capital = 768
 primary_culture = slovene
-culture = zzz_religion_catholic
+
 religion = catholic
 government = absolute_monarchy
 plurality = 0

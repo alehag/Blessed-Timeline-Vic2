@@ -1,6 +1,6 @@
 capital = 1757
 primary_culture = greek
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = democracy
 plurality = 0

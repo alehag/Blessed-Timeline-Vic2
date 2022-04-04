@@ -3,7 +3,7 @@ primary_culture = tajik
 culture = turkmen
 culture = uighur
 culture = uzbek
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

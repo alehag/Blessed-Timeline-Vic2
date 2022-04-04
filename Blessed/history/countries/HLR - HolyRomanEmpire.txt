@@ -1,6 +1,6 @@
 capital = 576
 primary_culture = dummy
-culture = zzz_religion_shamanist
+
 religion = shamanist
 government = prussian_constitutionalism
 plurality = 0

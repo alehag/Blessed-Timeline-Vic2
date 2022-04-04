@@ -1,6 +1,6 @@
 capital = 893
 primary_culture = armenian
-culture = zzz_religion_coptic
+
 religion = coptic
 government = absolute_monarchy
 plurality = 0

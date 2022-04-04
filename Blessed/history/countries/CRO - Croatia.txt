@@ -1,7 +1,7 @@
 capital = 771
 primary_culture = slovene
 culture = croat
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = bourgeois_dictatorship
 plurality = 0

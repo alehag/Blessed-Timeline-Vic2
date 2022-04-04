@@ -1,6 +1,6 @@
 capital = 2241
 primary_culture = scottish
-culture = zzz_religion_norse_pagan_reformed
+
 religion = norse_pagan_reformed
 government = democracy
 plurality = 0

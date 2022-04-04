@@ -1,6 +1,6 @@
 capital = 1090
 primary_culture = georgian
-culture = zzz_religion_orthodox
+
 religion = orthodox
 government = absolute_monarchy
 plurality = 0

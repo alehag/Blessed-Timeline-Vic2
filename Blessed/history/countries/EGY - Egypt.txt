@@ -2,7 +2,7 @@ capital = 1745
 primary_culture = andalucian
 culture = greek
 culture = misri
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

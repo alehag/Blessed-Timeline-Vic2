@@ -1,7 +1,7 @@
 capital = 1459
 primary_culture = bornean
 culture = javan
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

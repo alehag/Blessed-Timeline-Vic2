@@ -3,7 +3,7 @@ primary_culture = tibetan
 culture = kirgiz
 culture = mongol
 culture = uzbek
-culture = zzz_religion_sunni
+
 religion = sunni
 government = absolute_monarchy
 plurality = 0

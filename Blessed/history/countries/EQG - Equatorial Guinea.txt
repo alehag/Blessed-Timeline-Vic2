@@ -1,6 +1,6 @@
 capital = 1955
 primary_culture = forest_bantu
-culture = zzz_religion_animist
+
 religion = animist
 government = democracy
 plurality = 0
