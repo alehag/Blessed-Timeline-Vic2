@@ -4,4 +4,4 @@ add_core=FRA
 add_core=OCC
 add_core=TUL
 trade_goods = grain
-life_rating = 31
+life_rating = 35

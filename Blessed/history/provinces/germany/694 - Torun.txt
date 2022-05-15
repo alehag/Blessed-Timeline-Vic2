@@ -3,4 +3,4 @@ controller=BOH
 add_core=AUS
 add_core=PRT
 trade_goods = grain
-life_rating = 40
+life_rating = 35

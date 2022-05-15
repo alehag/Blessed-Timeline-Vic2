@@ -1,5 +1,5 @@
 owner=PRU
 controller=PRU
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 fort = 1
