@@ -1,5 +1,6 @@
-owner=ITA
-controller=ITA
+owner=CRO
+controller=CRO
+add_core=CRO
 add_core=DLM
 add_core=MRL
 trade_goods = grain

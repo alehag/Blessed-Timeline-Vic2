@@ -1,5 +1,5 @@
-owner=GRE
-controller=GRE
+owner=CRO
+controller=CRO
 add_core=CRO
 add_core=SLO
 add_core=YUG

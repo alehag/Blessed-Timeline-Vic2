@@ -1,7 +1,5 @@
 capital = 749
 primary_culture = south_italian
-culture = guiscard
-culture = north_italian
 
 religion = catholic
 government = bourgeois_dictatorship

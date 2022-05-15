@@ -1,7 +1,7 @@
-owner=NZM
-controller=NZM
+owner=NZL
+controller=NZL
 add_core=AOT
-add_core=NZM
+add_core=NZL
 trade_goods = cattle
 life_rating = 30
 naval_base = 2

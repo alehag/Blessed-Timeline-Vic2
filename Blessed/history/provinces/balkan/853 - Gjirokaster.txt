@@ -1,5 +1,5 @@
-owner=GRE
+owner=PNT
 controller=CRO
-add_core=GRE
+add_core=PNT
 trade_goods = cattle
 life_rating = 35

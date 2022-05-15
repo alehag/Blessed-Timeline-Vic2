@@ -1,5 +1,5 @@
-owner=ITA
-controller=ITA
+owner=PRU
+controller=PRU
 add_core=GER
 add_core=TTL
 trade_goods = fruit

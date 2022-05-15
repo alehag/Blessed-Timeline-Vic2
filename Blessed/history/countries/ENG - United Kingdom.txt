@@ -4,10 +4,6 @@ culture = anglo_saxon
 culture = british
 culture = elsinorian
 culture = english
-culture = guillaumois
-culture = irish
-culture = pictish
-culture = welsh
 
 religion = norse_pagan_reformed
 government = democracy

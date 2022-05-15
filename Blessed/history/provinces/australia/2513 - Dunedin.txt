@@ -1,6 +1,6 @@
-owner=X28
-controller=X28
-add_core=X28
+owner=NZL
+controller=NZL
+add_core=NZL
 trade_goods = wool
 life_rating = 30
 terrain = hills

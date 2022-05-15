@@ -1,7 +1,12 @@
 capital = 771
 primary_culture = slovene
 culture = croat
-
+culture = serb
+culture = greek
+culture = morlach
+culture = macedonian
+culture = szekely
+culture = bulgarian
 religion = orthodox
 government = bourgeois_dictatorship
 plurality = 0
